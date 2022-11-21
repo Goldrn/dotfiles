@@ -1,0 +1,5 @@
+[Default Applications]
+application/zip=userapp-unzip-EGXWV1.desktop
+
+[Added Associations]
+application/zip=userapp-unzip-JPV0V1.desktop;userapp-unzip-EGXWV1.desktop;
