@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+    <logflag>0</logflag>
+    <advanced_ppc_logging>false</advanced_ppc_logging>
+    <mlc_path>/home/goldrn/emu-games/wii-u/MLC</mlc_path>
+    <permanent_storage>true</permanent_storage>
+    <language>0</language>
+    <use_discord_presence>true</use_discord_presence>
+    <fullscreen_menubar>false</fullscreen_menubar>
+    <check_update>true</check_update>
+    <save_screenshot>true</save_screenshot>
+    <vk_warning>false</vk_warning>
+    <gp_download>true</gp_download>
+    <fullscreen>false</fullscreen>
+    <proxy_server></proxy_server>
+    <console_language>1</console_language>
+    <window_position>
+        <x>-1</x>
+        <y>-1</y>
+    </window_position>
+    <window_size>
+        <x>-1</x>
+        <y>-1</y>
+    </window_size>
+    <window_maximized>false</window_maximized>
+    <open_pad>true</open_pad>
+    <pad_position>
+        <x>-1</x>
+        <y>-1</y>
+    </pad_position>
+    <pad_size>
+        <x>-1</x>
+        <y>-1</y>
+    </pad_size>
+    <pad_maximized>false</pad_maximized>
+    <GameList>
+        <style>0</style>
+        <order></order>
+        <name_width>500</name_width>
+        <version_width>60</version_width>
+        <dlc_width>50</dlc_width>
+        <game_time_width>140</game_time_width>
+        <game_started_width>160</game_started_width>
+        <region_width>933</region_width>
+    </GameList>
+    <RecentLaunchFiles>
+        <Entry>/home/goldrn/emu-games/wii-u/doop/Xenoblade Chronicles X [AX5E01]</Entry>
+        <Entry>/home/goldrn/emu-games/wii-u/Tokyo Mirage Sessions #FE [ASEE01]</Entry>
+    </RecentLaunchFiles>
+    <RecentNFCFiles/>
+    <GamePaths>
+        <Entry>/home/goldrn/emu-games/wii-u</Entry>
+    </GamePaths>
+    <GameCache/>
+    <GraphicPack>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/SkylandersSwapForce/Workarounds/PortalStabilityFix/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/XenobladeChroniclesX/Graphics/rules.txt">
+            <Preset>
+                <category>Resolution</category>
+                <preset>1280x720 (Default)</preset>
+            </Preset>
+            <Preset>
+                <category>Skell Cockpit Resolution</category>
+                <preset>Medium (100%, Default)</preset>
+            </Preset>
+            <Preset>
+                <category>Shadow Quality</category>
+                <preset>Medium (100%, Default)</preset>
+            </Preset>
+            <Preset>
+                <category>Post-Processing Effect Quality</category>
+                <preset>Medium (100%, Default)</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/XenobladeChroniclesX/Enhancements/FancyFX/rules.txt">
+            <Preset>
+                <preset>1080 -&gt; 1440</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/XenobladeChroniclesX/Enhancements/AntiAliasing/rules.txt">
+            <Preset>
+                <preset>Nvidias FXAA</preset>
+            </Preset>
+        </Entry>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/XenobladeChroniclesX/Mods/BladeGlobalNemesisMissionsOffline/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/XenobladeChroniclesX/Mods/HudChangeTimeFromEmanual/rules.txt"/>
+        <Entry filename="graphicPacks/downloadedGraphicPacks/XenobladeChroniclesX/Mods/BladeTasksAndMissionsOffline/rules.txt">
+            <Preset>
+                <preset>Random</preset>
+            </Preset>
+        </Entry>
+    </GraphicPack>
+    <Graphic>
+        <api>1</api>
+        <device>5bcb6c868de70ee35870db24a11d53da</device>
+        <VSync>2</VSync>
+        <GX2DrawdoneSync>true</GX2DrawdoneSync>
+        <UpscaleFilter>1</UpscaleFilter>
+        <DownscaleFilter>0</DownscaleFilter>
+        <FullscreenScaling>0</FullscreenScaling>
+        <AsyncCompile>true</AsyncCompile>
+        <vkAccurateBarriers>true</vkAccurateBarriers>
+        <Overlay>
+            <Position>0</Position>
+            <TextColor>4294967295</TextColor>
+            <TextScale>100</TextScale>
+            <FPS>true</FPS>
+            <DrawCalls>false</DrawCalls>
+            <CPUUsage>false</CPUUsage>
+            <CPUPerCoreUsage>false</CPUPerCoreUsage>
+            <RAMUsage>false</RAMUsage>
+            <VRAMUsage>false</VRAMUsage>
+            <Debug>false</Debug>
+        </Overlay>
+        <Notification>
+            <Position>1</Position>
+            <TextColor>4294967295</TextColor>
+            <TextScale>100</TextScale>
+            <ControllerProfiles>true</ControllerProfiles>
+            <ControllerBattery>false</ControllerBattery>
+            <ShaderCompiling>true</ShaderCompiling>
+            <FriendService>true</FriendService>
+        </Notification>
+    </Graphic>
+    <Audio>
+        <api>3</api>
+        <delay>0</delay>
+        <TVChannels>1</TVChannels>
+        <PadChannels>1</PadChannels>
+        <InputChannels>0</InputChannels>
+        <TVVolume>50</TVVolume>
+        <PadVolume>50</PadVolume>
+        <InputVolume>50</InputVolume>
+        <TVDevice>alsa_output.usb-Generic_Blue_Microphones_2116BAH03SH8-00.analog-stereo</TVDevice>
+        <PadDevice>alsa_output.usb-Generic_Blue_Microphones_2116BAH03SH8-00.analog-stereo</PadDevice>
+        <InputDevice>alsa_input.usb-Generic_Blue_Microphones_2116BAH03SH8-00.analog-stereo</InputDevice>
+    </Audio>
+    <Account>
+        <PersistentId>2147483649</PersistentId>
+        <OnlineEnabled>true</OnlineEnabled>
+        <ActiveService>1</ActiveService>
+    </Account>
+    <Debug>
+        <CrashDumpUnix>0</CrashDumpUnix>
+    </Debug>
+    <Input>
+        <DSUC host="127.0.0.1" port="26760"/>
+    </Input>
+</content>

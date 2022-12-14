@@ -1,2 +1,3 @@
-2022/11/21-10:06:29.359 906 Creating DB /home/goldrn/.config/discord/Session Storage since it was missing.
-2022/11/21-10:06:29.361 906 Reusing MANIFEST /home/goldrn/.config/discord/Session Storage/MANIFEST-000001
+2022/12/11-22:00:53.034 af7e Reusing MANIFEST /home/goldrn/.config/discord/Session Storage/MANIFEST-000001
+2022/12/11-22:00:53.034 af7e Recovering log #3
+2022/12/11-22:00:53.035 af7e Reusing old log /home/goldrn/.config/discord/Session Storage/000003.log 

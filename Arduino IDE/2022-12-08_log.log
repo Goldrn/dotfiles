@@ -1,0 +1,1493 @@
+2022-12-08 19:25:06 Using browser-only version of superagent in non-browser environment
+2022-12-08 19:25:06 Configuration directory URI: 'file:///home/goldrn/.theia'
+2022-12-08 19:25:06 Configuring to accept webviews on '^.+\.webview\..+$' hostname.
+2022-12-08 19:25:06 2022-12-09T00:25:06.508Z root INFO Backend Object.initialize: 5.2 ms [Finished 0.763 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.509Z root INFO Backend Object.configure: 4.1 ms [Finished 0.763 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.509Z root INFO Backend MessagingContribution.onStart: 1.5 ms [Finished 0.763 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.509Z root INFO Backend OSBackendApplicationContribution.configure: 0.4 ms [Finished 0.798 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.510Z root INFO Backend DefaultWorkspaceServer.onStart: 0.3 ms [Finished 0.798 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.512Z root INFO Backend PluginLocalizationBackendContribution.configure: 0.1 ms [Finished 0.798 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.512Z root INFO Backend PluginLocalizationBackendContribution.initialize: 35.4 ms [Finished 0.798 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.512Z root INFO Backend TaskBackendApplicationContribution.onStart: 0.2 ms [Finished 0.798 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.513Z root INFO Backend ElectronTokenBackendContribution.configure: 0.8 ms [Finished 0.799 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.513Z root INFO Backend PluginDeployerContribution.initialize: 0.6 ms [Finished 0.800 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.514Z root INFO Backend ConfigServiceImpl.onStart: 1.1 ms [Finished 0.800 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.515Z root INFO Backend WebviewBackendSecurityWarnings.initialize: 0.5 ms [Finished 0.802 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.515Z root INFO Backend ArduinoDaemonImpl.onStart: 1.0 ms [Finished 0.802 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.515Z root INFO Backend NodeFileUploadService.configure: 2.0 ms [Finished 0.802 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.515Z daemon INFO Starting daemon from /opt/arduino-ide/resources/app/node_modules/arduino-ide-extension/build/arduino-cli...
+2022-12-08 19:25:06 2022-12-09T00:25:06.515Z discovery-log INFO start
+2022-12-08 19:25:06 2022-12-09T00:25:06.515Z discovery-log INFO start new deferred
+2022-12-08 19:25:06 2022-12-09T00:25:06.515Z root INFO Backend HostedPluginLocalizationService.initialize: 0.4 ms [Finished 0.803 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.515Z root INFO Backend BoardDiscovery.onStart: 0.7 ms [Finished 0.804 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.515Z root INFO Backend FileDownloadEndpoint.configure: 0.6 ms [Finished 0.804 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.515Z root INFO Backend AuthenticationServiceImpl.onStart: 0.4 ms [Finished 0.805 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.515Z root INFO Backend PluginApiContribution.configure: 0.4 ms [Finished 0.805 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.516Z root INFO Backend HostedPluginReader.configure: 0.2 ms [Finished 0.805 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.516Z root INFO Backend HostedPluginReader.configure: 0.1 ms [Finished 0.806 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.516Z root INFO Backend PlotterBackendContribution.configure: 0.3 ms [Finished 0.806 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.519Z root INFO Theia app listening on http://localhost:42483.
+2022-12-08 19:25:06 2022-12-09T00:25:06.519Z root INFO Finished starting backend application: 3.8 ms [Finished 0.809 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.533Z root WARN The local plugin referenced by local-dir:/home/goldrn/.arduinoIDE/plugins does not exist.
+2022-12-08 19:25:06 2022-12-09T00:25:06.533Z root WARN The local plugin referenced by local-dir:/home/goldrn/.arduinoIDE/extensions does not exist.
+2022-12-08 19:25:06 2022-12-09T00:25:06.533Z root WARN The local plugin referenced by local-dir:/home/goldrn/.arduinoProIDE/plugins does not exist.
+2022-12-08 19:25:06 2022-12-09T00:25:06.544Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.544Z root INFO Resolved "cortex-debug" to a VS Code extension "cortex-debug@1.5.1" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.544Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.544Z root INFO Resolved "vscode-arduino-tools" to a VS Code extension "vscode-arduino-tools@0.0.2-beta.5" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.544Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.544Z root INFO Resolved "vscode-builtin-cpp" to a VS Code extension "cpp@1.52.1" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.544Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.544Z root INFO Resolved "vscode-builtin-json" to a VS Code extension "json@1.46.1" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.544Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.544Z root INFO Resolved "vscode-builtin-json-language-features" to a VS Code extension "json-language-features@1.46.1" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.544Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.545Z root INFO Resolved "vscode-language-pack-bg" to a VS Code extension "vscode-language-pack-bg@1.48.3" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.545Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.545Z root INFO Resolved "vscode-language-pack-cs" to a VS Code extension "vscode-language-pack-cs@1.53.2" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.545Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.545Z root INFO Resolved "vscode-language-pack-de" to a VS Code extension "vscode-language-pack-de@1.53.2" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.545Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.545Z root INFO Resolved "vscode-language-pack-es" to a VS Code extension "vscode-language-pack-es@1.53.2" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.545Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.545Z root INFO Resolved "vscode-language-pack-fr" to a VS Code extension "vscode-language-pack-fr@1.53.2" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.545Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.545Z root INFO Resolved "vscode-language-pack-hu" to a VS Code extension "vscode-language-pack-hu@1.48.3" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.545Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.545Z root INFO Resolved "vscode-language-pack-it" to a VS Code extension "vscode-language-pack-it@1.53.2" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.545Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.546Z root INFO Resolved "vscode-language-pack-ja" to a VS Code extension "vscode-language-pack-ja@1.53.2" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.546Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.546Z root INFO Resolved "vscode-language-pack-ko" to a VS Code extension "vscode-language-pack-ko@1.53.2" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.546Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.546Z root INFO Resolved "vscode-language-pack-nl" to a VS Code extension "vscode-language-pack-nl@1.48.3" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.546Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.546Z root INFO Resolved "vscode-language-pack-pl" to a VS Code extension "vscode-language-pack-pl@1.53.2" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.546Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.546Z root INFO Resolved "vscode-language-pack-pt-BR" to a VS Code extension "vscode-language-pack-pt-BR@1.53.2" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.546Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.546Z root INFO Resolved "vscode-language-pack-ru" to a VS Code extension "vscode-language-pack-ru@1.53.2" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.546Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.546Z root INFO Resolved "vscode-language-pack-tr" to a VS Code extension "vscode-language-pack-tr@1.53.2" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.546Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.546Z root INFO Resolved "vscode-language-pack-uk" to a VS Code extension "vscode-language-pack-uk@1.48.3" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.546Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:25:06 2022-12-09T00:25:06.546Z root INFO Resolved "vscode-language-pack-zh-hans" to a VS Code extension "vscode-language-pack-zh-hans@1.53.2" with engines:
+2022-12-08 19:25:06 2022-12-09T00:25:06.559Z daemon INFO [36mINFO[0m[0000] Using config file: /home/goldrn/.arduinoIDE/arduino-cli.yaml 
+[36mINFO[0m[0000] arduino-cli version 0.29.0                   
+[36mINFO[0m[0000] Executing `arduino-cli daemon`               
+{"IP":"127.0.0.1","Port":"41533"}
+
+2022-12-08 19:25:06 2022-12-09T00:25:06.559Z daemon INFO Daemon is running.
+2022-12-08 19:25:06 2022-12-09T00:25:06.581Z daemon INFO [36mINFO[0m[0000] Loading hardware from: /home/goldrn/.arduino15/packages 
+
+2022-12-08 19:25:06 2022-12-09T00:25:06.583Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Loading index file: loading json index file /home/goldrn/.arduino15/package_index.json: open /home/goldrn/.arduino15/package_index.json: no such file or directory
+2022-12-08 19:25:06 2022-12-09T00:25:06.583Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Error loading hardware platform: discovery builtin:serial-discovery not found
+2022-12-08 19:25:06 2022-12-09T00:25:06.584Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Error loading hardware platform: discovery builtin:mdns-discovery not found
+2022-12-08 19:25:06 2022-12-09T00:25:06.584Z root ERROR Detected an error response during the gRPC core client initialization: code: 9, message: Loading index file: reading library_index.json: open /home/goldrn/.arduino15/library_index.json: no such file or directory
+2022-12-08 19:25:06 2022-12-09T00:25:06.584Z daemon INFO [36mINFO[0m[0000] Loading libraries index file                  [36mindex[0m=/home/goldrn/.arduino15/library_index.json
+[36mINFO[0m[0000] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0000] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:25:06 2022-12-09T00:25:06.589Z root ERROR The primary packages indexes are missing. Running indexes update before initializing the core gRPC client
+2022-12-08 19:25:06 2022-12-09T00:25:06.589Z daemon INFO [36mINFO[0m[0000] Updating libraries index                     
+[36mINFO[0m[0000] Updating index                                [36murl[0m="https://downloads.arduino.cc/packages/package_index.tar.bz2"
+
+2022-12-08 19:25:06 2022-12-09T00:25:06.591Z root INFO core-client-provider [library-index]
+2022-12-08 19:25:06 2022-12-09T00:25:06.591Z root INFO core-client-provider [platform-index]
+2022-12-08 19:25:06 2022-12-09T00:25:06.597Z root INFO Resolve plugins list: 82.6 ms [Finished 0.887 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.602Z root INFO Deployed backend plugin "marus25.cortex-debug@1.5.1" from "/opt/arduino-ide/resources/app/plugins/cortex-debug/extension/dist/extension.js": 4.8 ms [Finished 0.892 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.605Z root INFO Deployed backend plugin "arduino.vscode-arduino-tools@0.0.2-beta.5" from "/opt/arduino-ide/resources/app/plugins/vscode-arduino-tools/extension/dist/bundle": 2.8 ms [Finished 0.895 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.612Z root INFO Deployed backend plugin "vscode.cpp@1.52.1" from "/opt/arduino-ide/resources/app/plugins/vscode-builtin-cpp/extension": 6.9 ms [Finished 0.902 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.613Z root INFO Deployed backend plugin "vscode.json@1.46.1" from "/opt/arduino-ide/resources/app/plugins/vscode-builtin-json/extension": 1.3 ms [Finished 0.903 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.613Z root INFO Deployed backend plugin "vscode.json-language-features@1.46.1" from "/opt/arduino-ide/resources/app/plugins/vscode-builtin-json-language-features/extension/client/dist/jsonMain": 0.4 ms [Finished 0.904 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.673Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-bg@1.48.3" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-bg/extension": 59.9 ms [Finished 0.964 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.720Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-cs@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-cs/extension": 46.8 ms [Finished 1.010 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.790Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-de@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-de/extension": 69.3 ms [Finished 1.080 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.840Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-es@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-es/extension": 49.8 ms [Finished 1.130 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.873Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-fr@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-fr/extension": 33.0 ms [Finished 1.163 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.917Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-hu@1.48.3" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-hu/extension": 44.4 ms [Finished 1.207 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.951Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-it@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-it/extension": 33.7 ms [Finished 1.241 s after backend start]
+2022-12-08 19:25:06 2022-12-09T00:25:06.983Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-ja@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-ja/extension": 31.7 ms [Finished 1.273 s after backend start]
+2022-12-08 19:25:07 2022-12-09T00:25:07.017Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-ko@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-ko/extension": 34.2 ms [Finished 1.307 s after backend start]
+2022-12-08 19:25:07 2022-12-09T00:25:07.029Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-nl@1.48.3" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-nl/extension": 11.6 ms [Finished 1.319 s after backend start]
+2022-12-08 19:25:07 2022-12-09T00:25:07.069Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-pl@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-pl/extension": 40.5 ms [Finished 1.359 s after backend start]
+2022-12-08 19:25:07 2022-12-09T00:25:07.100Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-pt-br@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-pt-BR/extension": 30.9 ms [Finished 1.390 s after backend start]
+2022-12-08 19:25:07 2022-12-09T00:25:07.139Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-ru@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-ru/extension": 38.7 ms [Finished 1.429 s after backend start]
+2022-12-08 19:25:07 2022-12-09T00:25:07.169Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-tr@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-tr/extension": 29.9 ms [Finished 1.459 s after backend start]
+2022-12-08 19:25:07 2022-12-09T00:25:07.193Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-uk@1.48.3" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-uk/extension": 24.5 ms [Finished 1.483 s after backend start]
+2022-12-08 19:25:07 2022-12-09T00:25:07.230Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-zh-hans@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-zh-hans/extension": 28.6 ms [Finished 1.512 s after backend start]
+2022-12-08 19:25:07 2022-12-09T00:25:07.230Z root INFO Deploy plugins list: 82.6 ms [Finished 1.520 s after backend start]
+2022-12-08 19:25:08 2022-12-09T00:25:08.078Z root WARN Frontend a.configure took longer than the expected maximum 100 milliseconds: 262.4 ms [Finished 1.474 s after frontend start]
+2022-12-08 19:25:08 2022-12-09T00:25:08.747Z daemon INFO [36mINFO[0m[0002] Loading hardware from: /home/goldrn/.arduino15/packages 
+
+2022-12-08 19:25:08 2022-12-09T00:25:08.755Z daemon INFO [36mINFO[0m[0002] Checking signature                            [36mindex[0m=/home/goldrn/.arduino15/package_index.json [36msignatureFile[0m=/home/goldrn/.arduino15/package_index.json.sig [36mtrusted[0m=true
+
+2022-12-08 19:25:09 2022-12-09T00:25:09.033Z daemon INFO [36mINFO[0m[0002] Installing tool                               [36mTool[0m="builtin:ctags@5.8-arduino11"
+
+2022-12-08 19:25:09 2022-12-09T00:25:09.051Z daemon INFO [36mINFO[0m[0002] Tool installed                                [36mTool[0m="builtin:ctags@5.8-arduino11"
+
+2022-12-08 19:25:09 2022-12-09T00:25:09.423Z daemon INFO [36mINFO[0m[0002] Installing tool                               [36mTool[0m="builtin:serial-discovery@1.3.2"
+
+2022-12-08 19:25:09 2022-12-09T00:25:09.452Z daemon INFO [36mINFO[0m[0002] Tool installed                                [36mTool[0m="builtin:serial-discovery@1.3.2"
+
+2022-12-08 19:25:09 2022-12-09T00:25:09.915Z daemon INFO [36mINFO[0m[0003] Installing tool                               [36mTool[0m="builtin:mdns-discovery@1.0.6"
+
+2022-12-08 19:25:09 2022-12-09T00:25:09.958Z daemon INFO [36mINFO[0m[0003] Tool installed                                [36mTool[0m="builtin:mdns-discovery@1.0.6"
+
+2022-12-08 19:25:10 2022-12-09T00:25:10.369Z daemon INFO [36mINFO[0m[0003] Installing tool                               [36mTool[0m="builtin:serial-monitor@0.11.0"
+
+2022-12-08 19:25:10 2022-12-09T00:25:10.432Z daemon INFO [36mINFO[0m[0003] Tool installed                                [36mTool[0m="builtin:serial-monitor@0.11.0"
+
+2022-12-08 19:25:10 2022-12-09T00:25:10.432Z daemon INFO [36mINFO[0m[0003] Loading tools from dir: /home/goldrn/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0003] Loaded tool                                   [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[0003] Loaded tool                                   [36mtool[0m="builtin:mdns-discovery@1.0.6"
+[36mINFO[0m[0003] Loaded tool                                   [36mtool[0m="builtin:serial-discovery@1.3.2"
+[36mINFO[0m[0003] Loaded tool                                   [36mtool[0m="builtin:serial-monitor@0.11.0"
+[36mINFO[0m[0003] Loading libraries index file                  [36mindex[0m=/home/goldrn/.arduino15/library_index.json
+
+2022-12-08 19:25:10 2022-12-09T00:25:10.600Z daemon INFO [36mINFO[0m[0004] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+
+2022-12-08 19:25:10 2022-12-09T00:25:10.600Z daemon INFO [36mINFO[0m[0004] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:25:10 2022-12-09T00:25:10.603Z daemon INFO [36mINFO[0m[0004] Loading hardware from: /home/goldrn/.arduino15/packages 
+
+2022-12-08 19:25:10 2022-12-09T00:25:10.603Z daemon INFO [36mINFO[0m[0004] Loading package builtin from: /home/goldrn/.arduino15/packages/builtin 
+[36mINFO[0m[0004] Checking existence of 'tools' path: /home/goldrn/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0004] Loading tools from dir: /home/goldrn/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0004] Loaded tool                                   [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[0004] Loaded tool                                   [36mtool[0m="builtin:mdns-discovery@1.0.6"
+[36mINFO[0m[0004] Loaded tool                                   [36mtool[0m="builtin:serial-discovery@1.3.2"
+[36mINFO[0m[0004] Loaded tool                                   [36mtool[0m="builtin:serial-monitor@0.11.0"
+
+2022-12-08 19:25:10 2022-12-09T00:25:10.609Z daemon INFO [36mINFO[0m[0004] Checking signature                            [36mindex[0m=/home/goldrn/.arduino15/package_index.json [36msignatureFile[0m=/home/goldrn/.arduino15/package_index.json.sig [36mtrusted[0m=true
+
+2022-12-08 19:25:10 2022-12-09T00:25:10.609Z daemon INFO [36mINFO[0m[0004] Loading libraries index file                  [36mindex[0m=/home/goldrn/.arduino15/library_index.json
+
+2022-12-08 19:25:10 2022-12-09T00:25:10.791Z daemon INFO [36mINFO[0m[0004] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+
+2022-12-08 19:25:10 2022-12-09T00:25:10.792Z daemon INFO [36mINFO[0m[0004] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:25:10 2022-12-09T00:25:10.795Z root INFO Downloaded the primary package indexes, and successfully initialized the core gRPC client.
+2022-12-08 19:25:10 2022-12-09T00:25:10.796Z discovery-log INFO start request start watch
+2022-12-08 19:25:10 2022-12-09T00:25:10.797Z discovery-log INFO start requested start watch
+2022-12-08 19:25:10 2022-12-09T00:25:10.797Z discovery-log INFO start resolved watching
+2022-12-08 19:25:10 2022-12-09T00:25:10.797Z daemon INFO [36mINFO[0m[0004] starting discovery builtin:mdns-discovery process 
+[36mINFO[0m[0004] starting discovery builtin:serial-discovery process 
+
+2022-12-08 19:25:10 2022-12-09T00:25:10.806Z daemon INFO [36mINFO[0m[0004] started discovery builtin:mdns-discovery process 
+[36mINFO[0m[0004] sending command HELLO 1 "arduino-cli 0.29.0" to discovery builtin:mdns-discovery 
+[36mINFO[0m[0004] started discovery builtin:serial-discovery process 
+[36mINFO[0m[0004] sending command HELLO 1 "arduino-cli 0.29.0" to discovery builtin:serial-discovery 
+[36mINFO[0m[0004] from discovery builtin:serial-discovery received message type: hello, message: OK, protocol version: 1 
+[36mINFO[0m[0004] sending command START_SYNC to discovery builtin:serial-discovery 
+[36mINFO[0m[0004] from discovery builtin:mdns-discovery received message type: hello, message: OK, protocol version: 1 
+[36mINFO[0m[0004] sending command START_SYNC to discovery builtin:mdns-discovery 
+[36mINFO[0m[0004] from discovery builtin:serial-discovery received message type: start_sync, message: OK 
+[36mINFO[0m[0004] from discovery builtin:serial-discovery received message type: add, port: /dev/ttyACM0 
+[36mINFO[0m[0004] from discovery builtin:mdns-discovery received message type: start_sync, message: OK 
+
+2022-12-08 19:25:10 2022-12-09T00:25:10.824Z root WARN Frontend l.onStart took longer than the expected maximum 100 milliseconds: 2646.9 ms [Finished 4.252 s after frontend start]
+2022-12-08 19:25:10 2022-12-09T00:25:10.856Z root INFO Start frontend contributions: 3129.5 ms [Finished 4.258 s after frontend start]
+2022-12-08 19:25:10 2022-12-09T00:25:10.856Z root INFO Changed application state from 'init' to 'started_contributions'.
+2022-12-08 19:25:10 2022-12-09T00:25:10.864Z root INFO Changed application state from 'started_contributions' to 'attached_shell'.
+2022-12-08 19:25:10 2022-12-09T00:25:10.864Z root INFO >>> Restoring the layout state...
+2022-12-08 19:25:10 2022-12-09T00:25:10.865Z root INFO <<< Nothing to restore.
+2022-12-08 19:25:10 2022-12-09T00:25:10.898Z root INFO Initialize the workbench layout: 25.8 ms [Finished 4.321 s after frontend start]
+2022-12-08 19:25:10 2022-12-09T00:25:10.917Z root INFO Changed application state from 'attached_shell' to 'initialized_layout'.
+2022-12-08 19:25:10 2022-12-09T00:25:10.928Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[{"name":"Arduino Uno","fqbn":"arduino:avr:uno","isHidden":false}],"port":{"address":"/dev/ttyACM0","label":"/dev/ttyACM0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x0043"],["serialNumber","950383033313511061A1"],["vid","0x2341"]]}},"error":""}
+2022-12-08 19:25:10 2022-12-09T00:25:10.938Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5] Waiting for backend deployment: 112.4 ms [Finished 4.366 s after frontend start]
+2022-12-08 19:25:11 2022-12-09T00:25:11.051Z root INFO Attached boards and available ports changed:
+2022-12-08 19:25:11 2022-12-09T00:25:11.051Z root INFO  - Attached board: Arduino Uno [arduino:avr:uno] on /dev/ttyACM0 Serial Port (USB)
+2022-12-08 19:25:11 2022-12-09T00:25:11.051Z root INFO ------------------------------------------
+2022-12-08 19:25:11 2022-12-09T00:25:11.053Z root ERROR Request initAuthSession failed with error: The name org.freedesktop.secrets was not provided by any .service files
+2022-12-08 19:25:11 2022-12-09T00:25:11.363Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759) starting instance
+2022-12-08 19:25:11 2022-12-09T00:25:11.838Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5] Sync of 21 plugins: 872.2 ms [Finished 5.238 s after frontend start]
+2022-12-08 19:25:11 2022-12-09T00:25:11.840Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][marus25.cortex-debug]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.840Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][arduino.vscode-arduino-tools]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.840Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][vscode.cpp]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.840Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][vscode.json]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.840Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][vscode.json-language-features]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.840Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-bg]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.842Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-cs]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.842Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-de]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.842Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-es]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.842Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-fr]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.843Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-hu]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.843Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-it]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.843Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-ja]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.843Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-ko]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.843Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-nl]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.843Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-pl]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.843Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-pt-br]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.843Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-ru]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.843Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-tr]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.843Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-uk]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.843Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-zh-hans]: Loaded contributions.
+2022-12-08 19:25:11 2022-12-09T00:25:11.843Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5] Load contributions of 21 plugins: 28.5 ms [Finished 5.267 s after frontend start]
+2022-12-08 19:25:12 2022-12-09T00:25:12.438Z root INFO Frontend application start: 4348.8 ms [Finished 6.674 s after backend start]
+2022-12-08 19:25:12 2022-12-09T00:25:12.456Z root INFO Replace loading indicator with ready workbench UI (animation): 1121.8 ms [Finished 5.451 s after frontend start]
+2022-12-08 19:25:12 2022-12-09T00:25:12.456Z root INFO Changed application state from 'initialized_layout' to 'ready'.
+2022-12-08 19:25:12 2022-12-09T00:25:12.456Z root WARN Linked preference "workbench.colorCustomizations" not found. Source: "editor.bracketPairColorization.enabled"
+2022-12-08 19:25:12 2022-12-09T00:25:12.456Z root WARN 'cpp' language is remapped from 'source.cpp.embedded.macro' to 'source.cpp' scope
+2022-12-08 19:25:12 2022-12-09T00:25:12.456Z root WARN a registered grammar configuration for 'cpp' language is overridden
+2022-12-08 19:25:12 2022-12-09T00:25:12.791Z root ERROR ---- !!!SLOW!!! DURATION: search took 109.465 ms. Args: [{"query":"Arduino_BuiltIn"}] ----
+2022-12-08 19:25:12 2022-12-09T00:25:12.926Z root INFO >>> Starting boards package installation...
+2022-12-08 19:25:12 2022-12-09T00:25:12.926Z discovery-log INFO stop
+2022-12-08 19:25:12 2022-12-09T00:25:12.926Z discovery-log INFO >>> Stopping boards watcher...
+2022-12-08 19:25:12 2022-12-09T00:25:12.926Z discovery-log INFO Canceling boards watcher...
+2022-12-08 19:25:12 2022-12-09T00:25:12.926Z discovery-log INFO disposing requesting cancel
+2022-12-08 19:25:12 2022-12-09T00:25:12.926Z discovery-log INFO disposing canceled
+2022-12-08 19:25:12 2022-12-09T00:25:12.928Z discovery-log INFO error received
+2022-12-08 19:25:12 2022-12-09T00:25:12.928Z discovery-log INFO cancel error received!
+2022-12-08 19:25:12 2022-12-09T00:25:12.928Z discovery-log INFO stop received event: either end or cancel
+2022-12-08 19:25:12 2022-12-09T00:25:12.929Z discovery-log INFO stop stopped
+2022-12-08 19:25:12 2022-12-09T00:25:12.929Z discovery-log INFO received end
+2022-12-08 19:25:12 2022-12-09T00:25:12.930Z daemon INFO [36mINFO[0m[0006] boards watcher stream closed                 
+
+2022-12-08 19:25:13 2022-12-09T00:25:13.669Z root ERROR ---- !!!SLOW!!! DURATION: search took 989.783 ms. Args: [{"type":"Updatable"}] ----
+2022-12-08 19:25:13 2022-12-09T00:25:13.710Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): PluginManagerExtImpl/init()
+2022-12-08 19:25:13 2022-12-09T00:25:13.712Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(cortex-debug@1.5.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.714Z root INFO [hosted-plugin: 46759] Debugger contribution has been registered: cortex-debug
+2022-12-08 19:25:13 2022-12-09T00:25:13.715Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(vscode-arduino-tools@0.0.2-beta.5 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.715Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(cpp@1.52.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.716Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(json@1.46.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+PLUGIN_HOST(46759): initializing(json-language-features@1.46.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.717Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(vscode-language-pack-bg@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.717Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(vscode-language-pack-cs@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.718Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(vscode-language-pack-de@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.718Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(vscode-language-pack-es@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.719Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(vscode-language-pack-fr@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.719Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(vscode-language-pack-hu@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.720Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(vscode-language-pack-it@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.720Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(vscode-language-pack-ja@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.721Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(vscode-language-pack-ko@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.721Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(vscode-language-pack-nl@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.721Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(vscode-language-pack-pl@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.721Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(vscode-language-pack-pt-BR@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.722Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(vscode-language-pack-ru@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.722Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(vscode-language-pack-tr@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.722Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(vscode-language-pack-uk@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.722Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): initializing(vscode-language-pack-zh-hans@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:25:13 2022-12-09T00:25:13.725Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/vscode-builtin-json-language-features/extension/client/dist/jsonMain)
+2022-12-08 19:25:13 2022-12-09T00:25:13.757Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][marus25.cortex-debug]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.759Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][arduino.vscode-arduino-tools]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.759Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][vscode.cpp]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.760Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][vscode.json]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.760Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][vscode.json-language-features]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.760Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-bg]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.760Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-cs]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.760Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-de]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.760Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-es]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.760Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-fr]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.760Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-hu]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.760Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-it]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.761Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-ja]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.761Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-ko]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.761Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-nl]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.761Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-pl]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.761Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-pt-br]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.763Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-ru]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.763Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-tr]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.763Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-uk]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.764Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5][ms-ceintl.vscode-language-pack-zh-hans]: Started plugin.
+2022-12-08 19:25:13 2022-12-09T00:25:13.784Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/cortex-debug/extension/dist/extension.js)
+2022-12-08 19:25:13 2022-12-09T00:25:13.815Z root INFO [hosted-plugin: 46759] Debug configuration provider has been registered: cortex-debug, trigger: 1
+2022-12-08 19:25:13 2022-12-09T00:25:13.817Z root INFO [hosted-plugin: 46759] GDB server console created
+2022-12-08 19:25:13 2022-12-09T00:25:13.825Z root INFO [08cd2046-22fd-48a6-a7fe-0670f111d9c5] Start of 21 plugins: 1975.5 ms [Finished 7.257 s after frontend start]
+2022-12-08 19:25:17 2022-12-09T00:25:17.947Z daemon INFO [36mINFO[0m[0011] Installing tool                               [36mTool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+
+2022-12-08 19:25:25 2022-12-09T00:25:25.998Z daemon INFO [36mINFO[0m[0019] Tool installed                                [36mTool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0019] Installing tool                               [36mTool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:25:26 2022-12-09T00:25:26.039Z daemon INFO [36mINFO[0m[0019] Tool installed                                [36mTool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0019] Installing tool                               [36mTool[0m="arduino:arduinoOTA@1.3.0"
+
+2022-12-08 19:25:26 2022-12-09T00:25:26.414Z daemon INFO [36mINFO[0m[0019] Tool installed                                [36mTool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0019] Installing platform                           [36mplatform[0m="arduino:avr@1.8.6"
+
+2022-12-08 19:25:27 2022-12-09T00:25:27.433Z daemon INFO [36mINFO[0m[0020] Running post_install script                   [36mplatform[0m="arduino:avr@1.8.6"
+
+2022-12-08 19:25:27 2022-12-09T00:25:27.434Z daemon INFO [36mINFO[0m[0020] Platform installed                            [36mplatform[0m="arduino:avr@1.8.6"
+[36mINFO[0m[0020] Loading hardware from: /home/goldrn/.arduino15/packages 
+[36mINFO[0m[0020] Loading package arduino from: /home/goldrn/.arduino15/packages/arduino/hardware 
+
+2022-12-08 19:25:27 2022-12-09T00:25:27.437Z daemon INFO [36mINFO[0m[0020] Checking signature                            [36merror[0m="opening signature file: open /home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json.sig: no such file or directory" [36mindex[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json [36msignatureFile[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json.sig
+
+2022-12-08 19:25:27 2022-12-09T00:25:27.439Z daemon INFO [36mINFO[0m[0020] Adding monitor tool                           [36mprotocol[0m=serial [36mtool[0m="builtin:serial-monitor"
+[36mINFO[0m[0020] Loaded platform                               [36mplatform[0m="arduino:avr@1.8.6"
+
+2022-12-08 19:25:27 2022-12-09T00:25:27.440Z daemon INFO [36mINFO[0m[0020] Checking existence of 'tools' path: /home/goldrn/.arduino15/packages/arduino/tools 
+[36mINFO[0m[0020] Loading tools from dir: /home/goldrn/.arduino15/packages/arduino/tools 
+[36mINFO[0m[0020] Loaded tool                                   [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0020] Loaded tool                                   [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0020] Loaded tool                                   [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0020] Loading package builtin from: /home/goldrn/.arduino15/packages/builtin 
+[36mINFO[0m[0020] Checking existence of 'tools' path: /home/goldrn/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0020] Loading tools from dir: /home/goldrn/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0020] Loaded tool                                   [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[0020] Loaded tool                                   [36mtool[0m="builtin:mdns-discovery@1.0.6"
+[36mINFO[0m[0020] Loaded tool                                   [36mtool[0m="builtin:serial-discovery@1.3.2"
+
+2022-12-08 19:25:27 2022-12-09T00:25:27.440Z daemon INFO [36mINFO[0m[0020] Loaded tool                                   [36mtool[0m="builtin:serial-monitor@0.11.0"
+
+2022-12-08 19:25:27 2022-12-09T00:25:27.449Z daemon INFO [36mINFO[0m[0020] Checking signature                            [36mindex[0m=/home/goldrn/.arduino15/package_index.json [36msignatureFile[0m=/home/goldrn/.arduino15/package_index.json.sig [36mtrusted[0m=true
+
+2022-12-08 19:25:27 2022-12-09T00:25:27.450Z daemon INFO [36mINFO[0m[0020] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0020] Loading libraries index file                  [36mindex[0m=/home/goldrn/.arduino15/library_index.json
+
+2022-12-08 19:25:27 2022-12-09T00:25:27.656Z daemon INFO [36mINFO[0m[0021] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+
+2022-12-08 19:25:27 2022-12-09T00:25:27.656Z daemon INFO [36mINFO[0m[0021] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:25:27 2022-12-09T00:25:27.661Z discovery-log INFO start
+2022-12-08 19:25:27 2022-12-09T00:25:27.661Z discovery-log INFO start new deferred
+2022-12-08 19:25:27 2022-12-09T00:25:27.661Z discovery-log INFO start request start watch
+2022-12-08 19:25:27 2022-12-09T00:25:27.662Z discovery-log INFO start requested start watch
+2022-12-08 19:25:27 2022-12-09T00:25:27.662Z discovery-log INFO start resolved watching
+2022-12-08 19:25:27 2022-12-09T00:25:27.666Z daemon INFO [36mINFO[0m[0021] starting discovery builtin:serial-discovery process 
+[36mINFO[0m[0021] starting discovery builtin:mdns-discovery process 
+[36mINFO[0m[0021] started discovery builtin:mdns-discovery process 
+[36mINFO[0m[0021] sending command HELLO 1 "arduino-cli 0.29.0" to discovery builtin:mdns-discovery 
+[36mINFO[0m[0021] started discovery builtin:serial-discovery process 
+[36mINFO[0m[0021] sending command HELLO 1 "arduino-cli 0.29.0" to discovery builtin:serial-discovery 
+[36mINFO[0m[0021] from discovery builtin:serial-discovery received message type: hello, message: OK, protocol version: 1 
+[36mINFO[0m[0021] sending command START_SYNC to discovery builtin:serial-discovery 
+[36mINFO[0m[0021] from discovery builtin:mdns-discovery received message type: hello, message: OK, protocol version: 1 
+[36mINFO[0m[0021] sending command START_SYNC to discovery builtin:mdns-discovery 
+[36mINFO[0m[0021] from discovery builtin:serial-discovery received message type: start_sync, message: OK 
+[36mINFO[0m[0021] from discovery builtin:serial-discovery received message type: add, port: /dev/ttyACM0 
+[36mINFO[0m[0021] from discovery builtin:mdns-discovery received message type: start_sync, message: OK 
+
+2022-12-08 19:25:27 2022-12-09T00:25:27.667Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[{"name":"Arduino Uno","fqbn":"arduino:avr:uno","isHidden":false}],"port":{"address":"/dev/ttyACM0","label":"/dev/ttyACM0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x0043"],["serialNumber","950383033313511061A1"],["vid","0x2341"]]}},"error":""}
+2022-12-08 19:25:27 2022-12-09T00:25:27.667Z discovery-log WARN Port '/dev/ttyACM0 Serial Port (USB)' was already available. Known boards before override: [{"fqbn":"arduino:avr:uno","name":"Arduino Uno","port":{"address":"/dev/ttyACM0","addressLabel":"/dev/ttyACM0","protocol":"serial","protocolLabel":"Serial Port (USB)","properties":{"pid":"0x0043","serialNumber":"950383033313511061A1","vid":"0x2341"}}}]
+2022-12-08 19:25:27 2022-12-09T00:25:27.681Z root INFO <<< Boards package installation done.
+2022-12-08 19:25:27 2022-12-09T00:25:27.682Z root INFO Attached boards and available ports changed:
+2022-12-08 19:25:27 2022-12-09T00:25:27.683Z root INFO No changes.
+2022-12-08 19:25:27 2022-12-09T00:25:27.683Z root INFO ------------------------------------------
+2022-12-08 19:25:27 2022-12-09T00:25:27.685Z root INFO Boards package installed: 
+2022-12-08 19:25:27 2022-12-09T00:25:27.687Z root INFO >>> Starting library package installation...
+2022-12-08 19:25:27 2022-12-09T00:25:27.688Z discovery-log INFO stop
+2022-12-08 19:25:27 2022-12-09T00:25:27.688Z discovery-log INFO >>> Stopping boards watcher...
+2022-12-08 19:25:27 2022-12-09T00:25:27.688Z discovery-log INFO Canceling boards watcher...
+2022-12-08 19:25:27 2022-12-09T00:25:27.688Z discovery-log INFO disposing requesting cancel
+2022-12-08 19:25:27 2022-12-09T00:25:27.688Z discovery-log INFO disposing canceled
+2022-12-08 19:25:27 2022-12-09T00:25:27.690Z discovery-log INFO error received
+2022-12-08 19:25:27 2022-12-09T00:25:27.690Z discovery-log INFO cancel error received!
+2022-12-08 19:25:27 2022-12-09T00:25:27.690Z discovery-log INFO stop received event: either end or cancel
+2022-12-08 19:25:27 2022-12-09T00:25:27.690Z discovery-log INFO stop stopped
+2022-12-08 19:25:27 2022-12-09T00:25:27.690Z discovery-log INFO received end
+2022-12-08 19:25:27 2022-12-09T00:25:27.697Z daemon INFO [36mINFO[0m[0021] boards watcher stream closed                 
+
+2022-12-08 19:25:28 2022-12-09T00:25:28.032Z daemon INFO [36mINFO[0m[0021] Installing library                            [36mlibrary[0m=Servo@1.1.8
+
+2022-12-08 19:25:28 2022-12-09T00:25:28.252Z daemon INFO [36mINFO[0m[0021] Installing library                            [36mlibrary[0m=Stepper@1.1.3
+
+2022-12-08 19:25:28 2022-12-09T00:25:28.740Z daemon INFO [36mINFO[0m[0022] Installing library                            [36mlibrary[0m=Ethernet@2.0.1
+
+2022-12-08 19:25:29 2022-12-09T00:25:29.001Z daemon INFO [36mINFO[0m[0022] Installing library                            [36mlibrary[0m=Keyboard@1.0.4
+
+2022-12-08 19:25:29 2022-12-09T00:25:29.224Z daemon INFO [36mINFO[0m[0022] Installing library                            [36mlibrary[0m=Mouse@1.0.1
+
+2022-12-08 19:25:29 2022-12-09T00:25:29.400Z daemon INFO [36mINFO[0m[0022] Installing library                            [36mlibrary[0m=SD@1.2.4
+
+2022-12-08 19:25:29 2022-12-09T00:25:29.624Z daemon INFO [36mINFO[0m[0023] Installing library                            [36mlibrary[0m=TFT@1.0.6
+
+2022-12-08 19:25:29 2022-12-09T00:25:29.879Z daemon INFO [36mINFO[0m[0023] Installing library                            [36mlibrary[0m=Arduino_BuiltIn@1.0.0
+
+2022-12-08 19:25:30 2022-12-09T00:25:30.078Z daemon INFO [36mINFO[0m[0023] Installing library                            [36mlibrary[0m=Firmata@2.5.8
+
+2022-12-08 19:25:30 2022-12-09T00:25:30.306Z daemon INFO [36mINFO[0m[0023] Installing library                            [36mlibrary[0m=LiquidCrystal@1.0.7
+
+2022-12-08 19:25:30 2022-12-09T00:25:30.309Z daemon INFO [36mINFO[0m[0023] Loading hardware from: /home/goldrn/.arduino15/packages 
+
+2022-12-08 19:25:30 2022-12-09T00:25:30.309Z daemon INFO [36mINFO[0m[0023] Loading package arduino from: /home/goldrn/.arduino15/packages/arduino/hardware 
+
+2022-12-08 19:25:30 2022-12-09T00:25:30.312Z daemon INFO [36mINFO[0m[0023] Checking signature                            [36merror[0m="opening signature file: open /home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json.sig: no such file or directory" [36mindex[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json [36msignatureFile[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json.sig
+
+2022-12-08 19:25:30 2022-12-09T00:25:30.315Z daemon INFO [36mINFO[0m[0023] Adding monitor tool                           [36mprotocol[0m=serial [36mtool[0m="builtin:serial-monitor"
+[36mINFO[0m[0023] Loaded platform                               [36mplatform[0m="arduino:avr@1.8.6"
+
+2022-12-08 19:25:30 2022-12-09T00:25:30.317Z daemon INFO [36mINFO[0m[0023] Checking existence of 'tools' path: /home/goldrn/.arduino15/packages/arduino/tools 
+[36mINFO[0m[0023] Loading tools from dir: /home/goldrn/.arduino15/packages/arduino/tools 
+[36mINFO[0m[0023] Loaded tool                                   [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0023] Loaded tool                                   [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0023] Loaded tool                                   [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0023] Loading package builtin from: /home/goldrn/.arduino15/packages/builtin 
+[36mINFO[0m[0023] Checking existence of 'tools' path: /home/goldrn/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0023] Loading tools from dir: /home/goldrn/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0023] Loaded tool                                   [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[0023] Loaded tool                                   [36mtool[0m="builtin:mdns-discovery@1.0.6"
+[36mINFO[0m[0023] Loaded tool                                   [36mtool[0m="builtin:serial-discovery@1.3.2"
+[36mINFO[0m[0023] Loaded tool                                   [36mtool[0m="builtin:serial-monitor@0.11.0"
+
+2022-12-08 19:25:30 2022-12-09T00:25:30.324Z daemon INFO [36mINFO[0m[0023] Checking signature                            [36mindex[0m=/home/goldrn/.arduino15/package_index.json [36msignatureFile[0m=/home/goldrn/.arduino15/package_index.json.sig [36mtrusted[0m=true
+
+2022-12-08 19:25:30 2022-12-09T00:25:30.325Z daemon INFO [36mINFO[0m[0023] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0023] Loading libraries index file                  [36mindex[0m=/home/goldrn/.arduino15/library_index.json
+
+2022-12-08 19:25:30 2022-12-09T00:25:30.544Z daemon INFO [36mINFO[0m[0024] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+
+2022-12-08 19:25:30 2022-12-09T00:25:30.544Z daemon INFO [36mINFO[0m[0024] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:25:30 2022-12-09T00:25:30.562Z discovery-log INFO start
+2022-12-08 19:25:30 2022-12-09T00:25:30.563Z discovery-log INFO start new deferred
+2022-12-08 19:25:30 2022-12-09T00:25:30.563Z discovery-log INFO start request start watch
+2022-12-08 19:25:30 2022-12-09T00:25:30.563Z discovery-log INFO start requested start watch
+2022-12-08 19:25:30 2022-12-09T00:25:30.563Z discovery-log INFO start resolved watching
+2022-12-08 19:25:30 2022-12-09T00:25:30.565Z daemon INFO [36mINFO[0m[0024] starting discovery builtin:mdns-discovery process 
+[36mINFO[0m[0024] starting discovery builtin:serial-discovery process 
+[36mINFO[0m[0024] started discovery builtin:mdns-discovery process 
+[36mINFO[0m[0024] sending command HELLO 1 "arduino-cli 0.29.0" to discovery builtin:mdns-discovery 
+[36mINFO[0m[0024] started discovery builtin:serial-discovery process 
+[36mINFO[0m[0024] sending command HELLO 1 "arduino-cli 0.29.0" to discovery builtin:serial-discovery 
+
+2022-12-08 19:25:30 2022-12-09T00:25:30.567Z daemon INFO [36mINFO[0m[0024] from discovery builtin:serial-discovery received message type: hello, message: OK, protocol version: 1 
+[36mINFO[0m[0024] sending command START_SYNC to discovery builtin:serial-discovery 
+
+2022-12-08 19:25:30 2022-12-09T00:25:30.568Z daemon INFO [36mINFO[0m[0024] from discovery builtin:mdns-discovery received message type: hello, message: OK, protocol version: 1 
+[36mINFO[0m[0024] sending command START_SYNC to discovery builtin:mdns-discovery 
+
+2022-12-08 19:25:30 2022-12-09T00:25:30.569Z daemon INFO [36mINFO[0m[0024] from discovery builtin:mdns-discovery received message type: start_sync, message: OK 
+
+2022-12-08 19:25:30 2022-12-09T00:25:30.569Z daemon INFO [36mINFO[0m[0024] from discovery builtin:serial-discovery received message type: start_sync, message: OK 
+[36mINFO[0m[0024] from discovery builtin:serial-discovery received message type: add, port: /dev/ttyACM0 
+
+2022-12-08 19:25:30 2022-12-09T00:25:30.571Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[{"name":"Arduino Uno","fqbn":"arduino:avr:uno","isHidden":false}],"port":{"address":"/dev/ttyACM0","label":"/dev/ttyACM0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x0043"],["serialNumber","950383033313511061A1"],["vid","0x2341"]]}},"error":""}
+2022-12-08 19:25:30 2022-12-09T00:25:30.571Z discovery-log WARN Port '/dev/ttyACM0 Serial Port (USB)' was already available. Known boards before override: [{"fqbn":"arduino:avr:uno","name":"Arduino Uno","port":{"address":"/dev/ttyACM0","addressLabel":"/dev/ttyACM0","protocol":"serial","protocolLabel":"Serial Port (USB)","properties":{"pid":"0x0043","serialNumber":"950383033313511061A1","vid":"0x2341"}}}]
+2022-12-08 19:25:30 2022-12-09T00:25:30.575Z root INFO Attached boards and available ports changed:
+2022-12-08 19:25:30 2022-12-09T00:25:30.575Z root INFO No changes.
+2022-12-08 19:25:30 2022-12-09T00:25:30.576Z root INFO ------------------------------------------
+2022-12-08 19:25:31 2022-12-09T00:25:31.423Z root ERROR ---- !!!SLOW!!! DURATION: search took 860.576 ms. Args: [{}] ----
+2022-12-08 19:25:31 2022-12-09T00:25:31.423Z root INFO <<< Library package installation done.
+2022-12-08 19:27:58 2022-12-09T00:27:58.189Z daemon INFO [36mINFO[0m[0171] from discovery builtin:serial-discovery received message type: remove, port: /dev/ttyACM0 
+[36mINFO[0m[0171] from discovery builtin:serial-discovery received message type: remove, port: /dev/ttyACM0 
+
+2022-12-08 19:27:58 2022-12-09T00:27:58.190Z daemon INFO [36mINFO[0m[0171] from discovery builtin:serial-discovery received message type: remove, port: /dev/ttyACM0 
+
+2022-12-08 19:27:58 2022-12-09T00:27:58.192Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyACM0","label":"","protocol":"serial","protocolLabel":"","propertiesMap":[]}},"error":""}
+2022-12-08 19:27:58 2022-12-09T00:27:58.249Z root INFO Attached boards and available ports changed:
+2022-12-08 19:27:58 2022-12-09T00:27:58.250Z root INFO  - Detached board: Arduino Uno [arduino:avr:uno] from /dev/ttyACM0 Serial Port (USB)
+2022-12-08 19:27:58 2022-12-09T00:27:58.251Z root INFO ------------------------------------------
+2022-12-08 19:27:58 2022-12-09T00:27:58.756Z daemon INFO [36mINFO[0m[0172] from discovery builtin:serial-discovery received message type: add, port: /dev/ttyACM0 
+
+2022-12-08 19:27:58 2022-12-09T00:27:58.756Z daemon INFO [36mINFO[0m[0172] from discovery builtin:serial-discovery received message type: add, port: /dev/ttyACM0 
+[36mINFO[0m[0172] from discovery builtin:serial-discovery received message type: add, port: /dev/ttyACM0 
+
+2022-12-08 19:27:58 2022-12-09T00:27:58.758Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[{"name":"Arduino Uno","fqbn":"arduino:avr:uno","isHidden":false}],"port":{"address":"/dev/ttyACM0","label":"/dev/ttyACM0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x0043"],["serialNumber","950383033313511061A1"],["vid","0x2341"]]}},"error":""}
+2022-12-08 19:27:58 2022-12-09T00:27:58.762Z root INFO Attached boards and available ports changed:
+2022-12-08 19:27:58 2022-12-09T00:27:58.762Z root INFO  - Attached board: Arduino Uno [arduino:avr:uno] on /dev/ttyACM0 Serial Port (USB)
+2022-12-08 19:27:58 2022-12-09T00:27:58.762Z root INFO ------------------------------------------
+2022-12-08 19:32:20 2022-12-09T00:32:20.147Z root INFO Starting language server: arduino:avr:uno
+2022-12-08 19:32:20 2022-12-09T00:32:20.168Z root INFO [hosted-plugin: 46759] PLUGIN_HOST(46759): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/vscode-arduino-tools/extension/dist/bundle)
+2022-12-08 19:32:20 2022-12-09T00:32:20.223Z daemon INFO [36mINFO[0m[0433] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0433] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+
+2022-12-08 19:32:20 2022-12-09T00:32:20.223Z daemon INFO [36mINFO[0m[0433] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0433] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0433] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0433] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0433] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:32:20 2022-12-09T00:32:20.250Z daemon INFO [36mINFO[0m[0433] Resolving include Servo.h for arch avr       
+[36mINFO[0m[0433]   found better lib                            [36mlib[0m=Servo [36mprio[0m=64A
+
+2022-12-08 19:32:20 2022-12-09T00:32:20.546Z daemon INFO [36mINFO[0m[0434] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0434] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+
+2022-12-08 19:32:20 2022-12-09T00:32:20.546Z daemon INFO [36mINFO[0m[0434] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0434] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:32:21 2022-12-09T00:32:21.427Z daemon INFO [36mINFO[0m[0434] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0434] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0434] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0434] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0434] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0434] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0434] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:32:21 2022-12-09T00:32:21.448Z daemon INFO [36mINFO[0m[0434] Resolving include Servo.h for arch avr       
+
+2022-12-08 19:32:21 2022-12-09T00:32:21.449Z daemon INFO [36mINFO[0m[0434]   found better lib                            [36mlib[0m=Servo [36mprio[0m=64A
+
+2022-12-08 19:32:21 2022-12-09T00:32:21.683Z root INFO Executing 'arduino.languageserver.notifyBuildDidComplete' with {"buildOutputUri":"file:///tmp/arduino-sketch-B6587A37FA9772B6B798E4E3F4BFB93E"}
+2022-12-08 19:32:21 2022-12-09T00:32:21.693Z root INFO compiler-errors
+2022-12-08 19:32:21 2022-12-09T00:32:21.716Z root INFO compiler-errors
+2022-12-08 19:32:22 2022-12-09T00:32:22.696Z daemon INFO [36mINFO[0m[0436] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:32:22 2022-12-09T00:32:22.697Z daemon INFO [36mINFO[0m[0436] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0436] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0436] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:32:27 2022-12-09T00:32:27.802Z root INFO compiler-errors
+2022-12-08 19:32:27 2022-12-09T00:32:27.802Z root INFO compiler-errors
+2022-12-08 19:32:29 2022-12-09T00:32:29.125Z root INFO compiler-errors
+2022-12-08 19:32:29 2022-12-09T00:32:29.126Z root INFO compiler-errors
+2022-12-08 19:32:29 2022-12-09T00:32:29.126Z root INFO compiler-errors
+2022-12-08 19:32:29 2022-12-09T00:32:29.126Z root INFO compiler-errors
+2022-12-08 19:32:29 2022-12-09T00:32:29.126Z root INFO compiler-errors
+2022-12-08 19:32:29 2022-12-09T00:32:29.127Z root INFO compiler-errors
+2022-12-08 19:32:30 2022-12-09T00:32:30.820Z root INFO compiler-errors
+2022-12-08 19:32:30 2022-12-09T00:32:30.820Z root INFO compiler-errors
+2022-12-08 19:32:31 2022-12-09T00:32:31.130Z daemon INFO [36mINFO[0m[0444] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:32:31 2022-12-09T00:32:31.131Z daemon INFO [36mINFO[0m[0444] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0444] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0444] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:32:32 2022-12-09T00:32:32.238Z root INFO compiler-errors
+2022-12-08 19:32:32 2022-12-09T00:32:32.239Z root INFO compiler-errors
+2022-12-08 19:32:32 2022-12-09T00:32:32.239Z root INFO compiler-errors
+2022-12-08 19:32:32 2022-12-09T00:32:32.239Z root INFO compiler-errors
+2022-12-08 19:32:32 2022-12-09T00:32:32.239Z root INFO compiler-errors
+2022-12-08 19:32:32 2022-12-09T00:32:32.240Z root INFO compiler-errors
+2022-12-08 19:32:33 2022-12-09T00:32:33.571Z root INFO compiler-errors
+2022-12-08 19:32:33 2022-12-09T00:32:33.571Z root INFO compiler-errors
+2022-12-08 19:32:33 2022-12-09T00:32:33.885Z root INFO compiler-errors
+2022-12-08 19:32:33 2022-12-09T00:32:33.886Z root INFO compiler-errors
+2022-12-08 19:32:33 2022-12-09T00:32:33.886Z root INFO compiler-errors
+2022-12-08 19:32:33 2022-12-09T00:32:33.886Z root INFO compiler-errors
+2022-12-08 19:32:33 2022-12-09T00:32:33.886Z root INFO compiler-errors
+2022-12-08 19:32:34 2022-12-09T00:32:34.323Z root INFO compiler-errors
+2022-12-08 19:32:34 2022-12-09T00:32:34.323Z root INFO compiler-errors
+2022-12-08 19:32:35 2022-12-09T00:32:35.098Z root INFO compiler-errors
+2022-12-08 19:32:35 2022-12-09T00:32:35.098Z root INFO compiler-errors
+2022-12-08 19:32:35 2022-12-09T00:32:35.445Z root INFO compiler-errors
+2022-12-08 19:32:35 2022-12-09T00:32:35.446Z root INFO compiler-errors
+2022-12-08 19:32:35 2022-12-09T00:32:35.446Z root INFO compiler-errors
+2022-12-08 19:32:35 2022-12-09T00:32:35.446Z root INFO compiler-errors
+2022-12-08 19:32:35 2022-12-09T00:32:35.862Z root INFO compiler-errors
+2022-12-08 19:32:35 2022-12-09T00:32:35.863Z root INFO compiler-errors
+2022-12-08 19:32:37 2022-12-09T00:32:37.085Z root INFO compiler-errors
+2022-12-08 19:32:37 2022-12-09T00:32:37.086Z root INFO compiler-errors
+2022-12-08 19:32:37 2022-12-09T00:32:37.450Z daemon INFO [36mINFO[0m[0450] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0450] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0450] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0450] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:32:38 2022-12-09T00:32:38.884Z daemon INFO [36mINFO[0m[0452] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0452] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0452] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0452] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0452] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0452] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0452] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:32:38 2022-12-09T00:32:38.930Z daemon INFO [36mINFO[0m[0452] Resolving include Servo.h for arch avr       
+[36mINFO[0m[0452]   found better lib                            [36mlib[0m=Servo [36mprio[0m=64A
+
+2022-12-08 19:32:39 2022-12-09T00:32:39.403Z root INFO Executing 'arduino.languageserver.notifyBuildDidComplete' with {"buildOutputUri":"file:///tmp/arduino-sketch-B6587A37FA9772B6B798E4E3F4BFB93E"}
+2022-12-08 19:32:39 2022-12-09T00:32:39.409Z daemon INFO [36mINFO[0m[0452] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:32:39 2022-12-09T00:32:39.410Z daemon INFO [36mINFO[0m[0452] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0452] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0452] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0452] Tool required for upload                      [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0452] Tool required for upload                      [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0452] Tool required for upload                      [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0452] Tool required for upload                      [36mtool[0m="builtin:serial-monitor@0.11.0"
+[36mINFO[0m[0452] Tool required for upload                      [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[0452] Tool required for upload                      [36mtool[0m="builtin:mdns-discovery@1.0.6"
+[36mINFO[0m[0452] Tool required for upload                      [36mtool[0m="builtin:serial-discovery@1.3.2"
+
+2022-12-08 19:32:40 2022-12-09T00:32:40.408Z daemon INFO [36mINFO[0m[0453] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0453] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+
+2022-12-08 19:32:40 2022-12-09T00:32:40.409Z daemon INFO [36mINFO[0m[0453] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0453] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:32:48 2022-12-09T00:32:48.762Z daemon INFO [36mINFO[0m[0462] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0462] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0462] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0462] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0462] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0462] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0462] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:32:48 2022-12-09T00:32:48.798Z daemon INFO [36mINFO[0m[0462] Resolving include Servo.h for arch avr       
+[36mINFO[0m[0462]   found better lib                            [36mlib[0m=Servo [36mprio[0m=64A
+
+2022-12-08 19:32:49 2022-12-09T00:32:49.022Z root INFO Executing 'arduino.languageserver.notifyBuildDidComplete' with {"buildOutputUri":"file:///tmp/arduino-sketch-B6587A37FA9772B6B798E4E3F4BFB93E"}
+2022-12-08 19:32:50 2022-12-09T00:32:50.027Z daemon INFO [36mINFO[0m[0463] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:32:50 2022-12-09T00:32:50.027Z daemon INFO [36mINFO[0m[0463] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0463] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0463] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:32:57 2022-12-09T00:32:57.966Z daemon INFO [36mINFO[0m[0471] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0471] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0471] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0471] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0471] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0471] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0471] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:32:58 2022-12-09T00:32:58.018Z daemon INFO [36mINFO[0m[0471] Resolving include Servo.h for arch avr       
+[36mINFO[0m[0471]   found better lib                            [36mlib[0m=Servo [36mprio[0m=64A
+
+2022-12-08 19:32:58 2022-12-09T00:32:58.276Z root INFO Executing 'arduino.languageserver.notifyBuildDidComplete' with {"buildOutputUri":"file:///tmp/arduino-sketch-B6587A37FA9772B6B798E4E3F4BFB93E"}
+2022-12-08 19:32:58 2022-12-09T00:32:58.279Z daemon INFO [36mINFO[0m[0471] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:32:58 2022-12-09T00:32:58.280Z daemon INFO [36mINFO[0m[0471] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0471] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0471] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0471] Tool required for upload                      [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0471] Tool required for upload                      [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0471] Tool required for upload                      [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0471] Tool required for upload                      [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[0471] Tool required for upload                      [36mtool[0m="builtin:mdns-discovery@1.0.6"
+[36mINFO[0m[0471] Tool required for upload                      [36mtool[0m="builtin:serial-discovery@1.3.2"
+[36mINFO[0m[0471] Tool required for upload                      [36mtool[0m="builtin:serial-monitor@0.11.0"
+
+2022-12-08 19:32:59 2022-12-09T00:32:59.281Z daemon INFO [36mINFO[0m[0472] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0472] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0472] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0472] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:36:27 2022-12-09T00:36:27.207Z root WARN Frontend a.configure took longer than the expected maximum 100 milliseconds: 241.2 ms [Finished 1.345 s after frontend start]
+2022-12-08 19:36:27 2022-12-09T00:36:27.373Z root INFO Start frontend contributions: 490.6 ms [Finished 1.523 s after frontend start]
+2022-12-08 19:36:27 2022-12-09T00:36:27.373Z root INFO Changed application state from 'init' to 'started_contributions'.
+2022-12-08 19:36:27 2022-12-09T00:36:27.382Z root INFO Changed application state from 'started_contributions' to 'attached_shell'.
+2022-12-08 19:36:27 2022-12-09T00:36:27.382Z root INFO >>> Restoring the layout state...
+2022-12-08 19:36:27 2022-12-09T00:36:27.383Z root INFO <<< Nothing to restore.
+2022-12-08 19:36:27 2022-12-09T00:36:27.413Z root INFO Initialize the workbench layout: 24.0 ms [Finished 1.571 s after frontend start]
+2022-12-08 19:36:27 2022-12-09T00:36:27.432Z root INFO Changed application state from 'attached_shell' to 'initialized_layout'.
+2022-12-08 19:36:27 2022-12-09T00:36:27.483Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3] Waiting for backend deployment: 125.7 ms [Finished 1.645 s after frontend start]
+2022-12-08 19:36:27 2022-12-09T00:36:27.880Z root ERROR Request initAuthSession failed with error: The name org.freedesktop.secrets was not provided by any .service files
+2022-12-08 19:36:27 2022-12-09T00:36:27.881Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723) starting instance
+2022-12-08 19:36:28 2022-12-09T00:36:28.299Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3] Sync of 21 plugins: 790.4 ms [Finished 2.435 s after frontend start]
+2022-12-08 19:36:28 2022-12-09T00:36:28.301Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][marus25.cortex-debug]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.301Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][arduino.vscode-arduino-tools]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.301Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][vscode.cpp]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.301Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][vscode.json]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.301Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][vscode.json-language-features]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.301Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-bg]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.303Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-cs]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.303Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-de]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.303Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-es]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.303Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-fr]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.303Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-hu]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.303Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-it]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.303Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-ja]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.303Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-ko]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.303Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-nl]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.303Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-pl]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.303Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-pt-br]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.303Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-ru]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.304Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-tr]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.304Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-uk]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.304Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-zh-hans]: Loaded contributions.
+2022-12-08 19:36:28 2022-12-09T00:36:28.304Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3] Load contributions of 21 plugins: 27.9 ms [Finished 2.463 s after frontend start]
+2022-12-08 19:36:28 2022-12-09T00:36:28.765Z root INFO Frontend application start: 1589.5 ms [Finished 683.054 s after backend start]
+2022-12-08 19:36:28 2022-12-09T00:36:28.768Z root INFO Replace loading indicator with ready workbench UI (animation): 1026.0 ms [Finished 2.604 s after frontend start]
+2022-12-08 19:36:28 2022-12-09T00:36:28.769Z root INFO Changed application state from 'initialized_layout' to 'ready'.
+2022-12-08 19:36:28 2022-12-09T00:36:28.769Z root WARN Linked preference "workbench.colorCustomizations" not found. Source: "editor.bracketPairColorization.enabled"
+2022-12-08 19:36:28 2022-12-09T00:36:28.793Z root WARN 'cpp' language is remapped from 'source.cpp.embedded.macro' to 'source.cpp' scope
+2022-12-08 19:36:28 2022-12-09T00:36:28.794Z root WARN a registered grammar configuration for 'cpp' language is overridden
+2022-12-08 19:36:28 2022-12-09T00:36:28.829Z root INFO Executing startup tasks:
+2022-12-08 19:36:28 2022-12-09T00:36:28.830Z root INFO  - 'arduino-use-inherited-boards-config' , args: [{"selectedBoard":{"fqbn":"arduino:avr:uno","name":"Arduino Uno","port":{"address":"/dev/ttyACM0","addressLabel":"/dev/ttyACM0","protocol":"serial","protocolLabel":"Serial Port (USB)","properties":{"pid":"0x0043","serialNumber":"950383033313511061A1","vid":"0x2341"}},"state":0,"selected":false},"selectedPort":{"address":"/dev/ttyACM0","addressLabel":"/dev/ttyACM0","protocol":"serial","protocolLabel":"Serial Port (USB)","properties":{"pid":"0x0043","serialNumber":"950383033313511061A1","vid":"0x2341"}}}]
+2022-12-08 19:36:28 2022-12-09T00:36:28.830Z root INFO  - 'arduino-delete-sketch' , args: ["file:///tmp/.arduinoIDE-unsaved2022118-46599-1xn4v0p.n70sl/sketch_dec8a"]
+2022-12-08 19:36:29 2022-12-09T00:36:29.263Z sketches-service INFO Successfully deleted sketch at /tmp/.arduinoIDE-unsaved2022118-46599-1xn4v0p.n70sl/sketch_dec8a.
+2022-12-08 19:36:30 2022-12-09T00:36:30.107Z root ERROR ---- !!!SLOW!!! DURATION: search took 874.068 ms. Args: [{"type":"Updatable"}] ----
+2022-12-08 19:36:30 2022-12-09T00:36:30.272Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): PluginManagerExtImpl/init()
+2022-12-08 19:36:30 2022-12-09T00:36:30.276Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(cortex-debug@1.5.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.278Z root INFO [hosted-plugin: 47723] Debugger contribution has been registered: cortex-debug
+2022-12-08 19:36:30 2022-12-09T00:36:30.279Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(vscode-arduino-tools@0.0.2-beta.5 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.280Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(cpp@1.52.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.280Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(json@1.46.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.281Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(json-language-features@1.46.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.281Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(vscode-language-pack-bg@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.281Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(vscode-language-pack-cs@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.282Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(vscode-language-pack-de@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.282Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(vscode-language-pack-es@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.283Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(vscode-language-pack-fr@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.284Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(vscode-language-pack-hu@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.284Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(vscode-language-pack-it@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.285Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(vscode-language-pack-ja@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.285Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(vscode-language-pack-ko@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.285Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(vscode-language-pack-nl@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.285Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(vscode-language-pack-pl@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.286Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(vscode-language-pack-pt-BR@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.286Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(vscode-language-pack-ru@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.286Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(vscode-language-pack-tr@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.286Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(vscode-language-pack-uk@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.287Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): initializing(vscode-language-pack-zh-hans@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:36:30 2022-12-09T00:36:30.312Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/vscode-builtin-json-language-features/extension/client/dist/jsonMain)
+2022-12-08 19:36:30 2022-12-09T00:36:30.344Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][marus25.cortex-debug]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.345Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][arduino.vscode-arduino-tools]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.345Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][vscode.cpp]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.345Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][vscode.json]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.345Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][vscode.json-language-features]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.346Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-bg]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.346Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-cs]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.346Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-de]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.346Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-es]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.346Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-fr]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.346Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-hu]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.347Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-it]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.347Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-ja]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.348Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-ko]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.348Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-nl]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.348Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-pl]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.348Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-pt-br]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.348Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-ru]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.348Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-tr]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.348Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-uk]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.348Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3][ms-ceintl.vscode-language-pack-zh-hans]: Started plugin.
+2022-12-08 19:36:30 2022-12-09T00:36:30.365Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/cortex-debug/extension/dist/extension.js)
+2022-12-08 19:36:30 2022-12-09T00:36:30.392Z root INFO [hosted-plugin: 47723] Debug configuration provider has been registered: cortex-debug, trigger: 1
+2022-12-08 19:36:30 2022-12-09T00:36:30.393Z root INFO [hosted-plugin: 47723] GDB server console created
+2022-12-08 19:36:30 2022-12-09T00:36:30.401Z root INFO [2771e386-23d3-4552-a1f2-211d7a369ed3] Start of 21 plugins: 2088.3 ms [Finished 4.566 s after frontend start]
+2022-12-08 19:36:30 2022-12-09T00:36:30.409Z root INFO Starting language server: arduino:avr:uno
+2022-12-08 19:36:30 2022-12-09T00:36:30.419Z root INFO [hosted-plugin: 47723] PLUGIN_HOST(47723): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/vscode-arduino-tools/extension/dist/bundle)
+2022-12-08 19:36:30 2022-12-09T00:36:30.457Z daemon INFO [36mINFO[0m[0683] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0683] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+
+2022-12-08 19:36:30 2022-12-09T00:36:30.458Z daemon INFO [36mINFO[0m[0683] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0683] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0683] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0683] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0683] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:36:30 2022-12-09T00:36:30.486Z daemon INFO [36mINFO[0m[0683] Resolving include Servo.h for arch avr       
+[36mINFO[0m[0683]   found better lib                            [36mlib[0m=Servo [36mprio[0m=64A
+
+2022-12-08 19:36:30 2022-12-09T00:36:30.778Z daemon INFO [36mINFO[0m[0684] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0684] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+
+2022-12-08 19:36:30 2022-12-09T00:36:30.778Z daemon INFO [36mINFO[0m[0684] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0684] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:37:05 Using browser-only version of superagent in non-browser environment
+2022-12-08 19:37:05 Configuration directory URI: 'file:///home/goldrn/.theia'
+2022-12-08 19:37:05 Configuring to accept webviews on '^.+\.webview\..+$' hostname.
+2022-12-08 19:37:05 2022-12-09T00:37:05.891Z root INFO Backend Object.initialize: 4.9 ms [Finished 0.695 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.892Z root INFO Backend Object.configure: 4.0 ms [Finished 0.695 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.892Z root INFO Backend MessagingContribution.onStart: 2.0 ms [Finished 0.695 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.892Z root INFO Backend OSBackendApplicationContribution.configure: 0.4 ms [Finished 0.730 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.893Z root INFO Backend DefaultWorkspaceServer.onStart: 0.3 ms [Finished 0.730 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.894Z root INFO Backend PluginLocalizationBackendContribution.configure: 0.1 ms [Finished 0.730 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.894Z root INFO Backend PluginLocalizationBackendContribution.initialize: 34.9 ms [Finished 0.730 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.895Z root INFO Backend TaskBackendApplicationContribution.onStart: 0.3 ms [Finished 0.730 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.895Z root INFO Backend ElectronTokenBackendContribution.configure: 0.7 ms [Finished 0.731 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.896Z root INFO Backend PluginDeployerContribution.initialize: 0.4 ms [Finished 0.731 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.896Z root INFO Backend ConfigServiceImpl.onStart: 0.7 ms [Finished 0.732 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.897Z root INFO Backend WebviewBackendSecurityWarnings.initialize: 0.5 ms [Finished 0.733 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.898Z root INFO Backend ArduinoDaemonImpl.onStart: 1.1 ms [Finished 0.734 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.898Z root INFO Backend NodeFileUploadService.configure: 1.8 ms [Finished 0.734 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.898Z daemon INFO Starting daemon from /opt/arduino-ide/resources/app/node_modules/arduino-ide-extension/build/arduino-cli...
+2022-12-08 19:37:05 2022-12-09T00:37:05.898Z discovery-log INFO start
+2022-12-08 19:37:05 2022-12-09T00:37:05.898Z discovery-log INFO start new deferred
+2022-12-08 19:37:05 2022-12-09T00:37:05.898Z root INFO Backend HostedPluginLocalizationService.initialize: 0.5 ms [Finished 0.735 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.898Z root INFO Backend BoardDiscovery.onStart: 0.8 ms [Finished 0.735 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.898Z root INFO Backend FileDownloadEndpoint.configure: 0.7 ms [Finished 0.735 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.898Z root INFO Backend AuthenticationServiceImpl.onStart: 0.5 ms [Finished 0.737 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.898Z root INFO Backend PluginApiContribution.configure: 0.5 ms [Finished 0.737 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.899Z root INFO Backend HostedPluginReader.configure: 0.2 ms [Finished 0.737 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.899Z root INFO Backend HostedPluginReader.configure: 0.1 ms [Finished 0.737 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.899Z root INFO Backend PlotterBackendContribution.configure: 0.3 ms [Finished 0.738 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.901Z root INFO Theia app listening on http://localhost:42017.
+2022-12-08 19:37:05 2022-12-09T00:37:05.901Z root INFO Finished starting backend application: 3.1 ms [Finished 0.740 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.910Z root WARN The local plugin referenced by local-dir:/home/goldrn/.arduinoIDE/plugins does not exist.
+2022-12-08 19:37:05 2022-12-09T00:37:05.910Z root WARN The local plugin referenced by local-dir:/home/goldrn/.arduinoIDE/extensions does not exist.
+2022-12-08 19:37:05 2022-12-09T00:37:05.910Z root WARN The local plugin referenced by local-dir:/home/goldrn/.arduinoProIDE/plugins does not exist.
+2022-12-08 19:37:05 2022-12-09T00:37:05.919Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.919Z root INFO Resolved "cortex-debug" to a VS Code extension "cortex-debug@1.5.1" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.919Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.919Z root INFO Resolved "vscode-arduino-tools" to a VS Code extension "vscode-arduino-tools@0.0.2-beta.5" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.919Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.919Z root INFO Resolved "vscode-builtin-cpp" to a VS Code extension "cpp@1.52.1" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.919Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO Resolved "vscode-builtin-json" to a VS Code extension "json@1.46.1" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO Resolved "vscode-builtin-json-language-features" to a VS Code extension "json-language-features@1.46.1" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO Resolved "vscode-language-pack-bg" to a VS Code extension "vscode-language-pack-bg@1.48.3" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO Resolved "vscode-language-pack-cs" to a VS Code extension "vscode-language-pack-cs@1.53.2" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO Resolved "vscode-language-pack-de" to a VS Code extension "vscode-language-pack-de@1.53.2" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO Resolved "vscode-language-pack-es" to a VS Code extension "vscode-language-pack-es@1.53.2" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO Resolved "vscode-language-pack-fr" to a VS Code extension "vscode-language-pack-fr@1.53.2" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO Resolved "vscode-language-pack-hu" to a VS Code extension "vscode-language-pack-hu@1.48.3" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO Resolved "vscode-language-pack-it" to a VS Code extension "vscode-language-pack-it@1.53.2" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO Resolved "vscode-language-pack-ja" to a VS Code extension "vscode-language-pack-ja@1.53.2" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO Resolved "vscode-language-pack-ko" to a VS Code extension "vscode-language-pack-ko@1.53.2" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.920Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.921Z root INFO Resolved "vscode-language-pack-nl" to a VS Code extension "vscode-language-pack-nl@1.48.3" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.921Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.921Z root INFO Resolved "vscode-language-pack-pl" to a VS Code extension "vscode-language-pack-pl@1.53.2" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.921Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.921Z root INFO Resolved "vscode-language-pack-pt-BR" to a VS Code extension "vscode-language-pack-pt-BR@1.53.2" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.921Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.921Z root INFO Resolved "vscode-language-pack-ru" to a VS Code extension "vscode-language-pack-ru@1.53.2" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.921Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.921Z root INFO Resolved "vscode-language-pack-tr" to a VS Code extension "vscode-language-pack-tr@1.53.2" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.921Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.921Z root INFO Resolved "vscode-language-pack-uk" to a VS Code extension "vscode-language-pack-uk@1.48.3" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.921Z root INFO PluginTheiaDirectoryHandler: accepting plugin with path
+2022-12-08 19:37:05 2022-12-09T00:37:05.921Z root INFO Resolved "vscode-language-pack-zh-hans" to a VS Code extension "vscode-language-pack-zh-hans@1.53.2" with engines:
+2022-12-08 19:37:05 2022-12-09T00:37:05.934Z daemon INFO [36mINFO[0m[0000] Using config file: /home/goldrn/.arduinoIDE/arduino-cli.yaml 
+[36mINFO[0m[0000] arduino-cli version 0.29.0                   
+[36mINFO[0m[0000] Executing `arduino-cli daemon`               
+{"IP":"127.0.0.1","Port":"43239"}
+
+2022-12-08 19:37:05 2022-12-09T00:37:05.934Z daemon INFO Daemon is running.
+2022-12-08 19:37:05 2022-12-09T00:37:05.954Z daemon INFO [36mINFO[0m[0000] Loading hardware from: /home/goldrn/.arduino15/packages 
+[36mINFO[0m[0000] Loading package arduino from: /home/goldrn/.arduino15/packages/arduino/hardware 
+
+2022-12-08 19:37:05 2022-12-09T00:37:05.960Z daemon INFO [36mINFO[0m[0000] Checking signature                            [36merror[0m="opening signature file: open /home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json.sig: no such file or directory" [36mindex[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json [36msignatureFile[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/installed.json.sig
+
+2022-12-08 19:37:05 2022-12-09T00:37:05.961Z daemon INFO [36mINFO[0m[0000] Adding monitor tool                           [36mprotocol[0m=serial [36mtool[0m="builtin:serial-monitor"
+[36mINFO[0m[0000] Loaded platform                               [36mplatform[0m="arduino:avr@1.8.6"
+[36mINFO[0m[0000] Checking existence of 'tools' path: /home/goldrn/.arduino15/packages/arduino/tools 
+[36mINFO[0m[0000] Loading tools from dir: /home/goldrn/.arduino15/packages/arduino/tools 
+[36mINFO[0m[0000] Loaded tool                                   [36mtool[0m="arduino:arduinoOTA@1.3.0"
+
+2022-12-08 19:37:05 2022-12-09T00:37:05.961Z daemon INFO [36mINFO[0m[0000] Loaded tool                                   [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0000] Loaded tool                                   [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0000] Loading package builtin from: /home/goldrn/.arduino15/packages/builtin 
+[36mINFO[0m[0000] Checking existence of 'tools' path: /home/goldrn/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0000] Loading tools from dir: /home/goldrn/.arduino15/packages/builtin/tools 
+[36mINFO[0m[0000] Loaded tool                                   [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[0000] Loaded tool                                   [36mtool[0m="builtin:mdns-discovery@1.0.6"
+[36mINFO[0m[0000] Loaded tool                                   [36mtool[0m="builtin:serial-discovery@1.3.2"
+[36mINFO[0m[0000] Loaded tool                                   [36mtool[0m="builtin:serial-monitor@0.11.0"
+
+2022-12-08 19:37:05 2022-12-09T00:37:05.964Z root INFO Resolve plugins list: 67.7 ms [Finished 0.803 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.968Z root INFO Deployed backend plugin "marus25.cortex-debug@1.5.1" from "/opt/arduino-ide/resources/app/plugins/cortex-debug/extension/dist/extension.js": 3.6 ms [Finished 0.807 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.971Z root INFO Deployed backend plugin "arduino.vscode-arduino-tools@0.0.2-beta.5" from "/opt/arduino-ide/resources/app/plugins/vscode-arduino-tools/extension/dist/bundle": 2.2 ms [Finished 0.810 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.971Z daemon INFO [36mINFO[0m[0000] Checking signature                            [36mindex[0m=/home/goldrn/.arduino15/package_index.json [36msignatureFile[0m=/home/goldrn/.arduino15/package_index.json.sig [36mtrusted[0m=true
+[36mINFO[0m[0000] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0000] Loading libraries index file                  [36mindex[0m=/home/goldrn/.arduino15/library_index.json
+
+2022-12-08 19:37:05 2022-12-09T00:37:05.980Z root INFO Deployed backend plugin "vscode.cpp@1.52.1" from "/opt/arduino-ide/resources/app/plugins/vscode-builtin-cpp/extension": 9.0 ms [Finished 0.819 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.981Z root INFO Deployed backend plugin "vscode.json@1.46.1" from "/opt/arduino-ide/resources/app/plugins/vscode-builtin-json/extension": 1.3 ms [Finished 0.820 s after backend start]
+2022-12-08 19:37:05 2022-12-09T00:37:05.981Z root INFO Deployed backend plugin "vscode.json-language-features@1.46.1" from "/opt/arduino-ide/resources/app/plugins/vscode-builtin-json-language-features/extension/client/dist/jsonMain": 0.3 ms [Finished 0.821 s after backend start]
+2022-12-08 19:37:06 2022-12-09T00:37:06.047Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-bg@1.48.3" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-bg/extension": 65.9 ms [Finished 0.887 s after backend start]
+2022-12-08 19:37:06 2022-12-09T00:37:06.093Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-cs@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-cs/extension": 45.3 ms [Finished 0.932 s after backend start]
+2022-12-08 19:37:06 2022-12-09T00:37:06.168Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-de@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-de/extension": 75.4 ms [Finished 1.007 s after backend start]
+2022-12-08 19:37:06 2022-12-09T00:37:06.170Z daemon INFO [36mINFO[0m[0000] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0000] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:37:06 2022-12-09T00:37:06.173Z discovery-log INFO start request start watch
+2022-12-08 19:37:06 2022-12-09T00:37:06.173Z discovery-log INFO start requested start watch
+2022-12-08 19:37:06 2022-12-09T00:37:06.173Z discovery-log INFO start resolved watching
+2022-12-08 19:37:06 2022-12-09T00:37:06.220Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-es@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-es/extension": 51.5 ms [Finished 1.059 s after backend start]
+2022-12-08 19:37:06 2022-12-09T00:37:06.221Z daemon INFO [36mINFO[0m[0000] starting discovery builtin:serial-discovery process 
+[36mINFO[0m[0000] starting discovery builtin:mdns-discovery process 
+[36mINFO[0m[0000] started discovery builtin:serial-discovery process 
+[36mINFO[0m[0000] sending command HELLO 1 "arduino-cli 0.29.0" to discovery builtin:serial-discovery 
+[36mINFO[0m[0000] started discovery builtin:mdns-discovery process 
+[36mINFO[0m[0000] sending command HELLO 1 "arduino-cli 0.29.0" to discovery builtin:mdns-discovery 
+[36mINFO[0m[0000] from discovery builtin:serial-discovery received message type: hello, message: OK, protocol version: 1 
+[36mINFO[0m[0000] sending command START_SYNC to discovery builtin:serial-discovery 
+[36mINFO[0m[0000] from discovery builtin:mdns-discovery received message type: hello, message: OK, protocol version: 1 
+[36mINFO[0m[0000] sending command START_SYNC to discovery builtin:mdns-discovery 
+[36mINFO[0m[0000] from discovery builtin:mdns-discovery received message type: start_sync, message: OK 
+[36mINFO[0m[0000] from discovery builtin:serial-discovery received message type: start_sync, message: OK 
+[36mINFO[0m[0000] from discovery builtin:serial-discovery received message type: add, port: /dev/ttyACM0 
+[36mINFO[0m[0000] from discovery builtin:serial-discovery received message type: add, port: /dev/ttyS0 
+
+2022-12-08 19:37:06 2022-12-09T00:37:06.224Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[{"name":"Arduino Uno","fqbn":"arduino:avr:uno","isHidden":false}],"port":{"address":"/dev/ttyACM0","label":"/dev/ttyACM0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x0043"],["serialNumber","950383033313511061A1"],["vid","0x2341"]]}},"error":""}
+2022-12-08 19:37:06 2022-12-09T00:37:06.226Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyS0","label":"/dev/ttyS0","protocol":"serial","protocolLabel":"Serial Port","propertiesMap":[]}},"error":""}
+2022-12-08 19:37:06 2022-12-09T00:37:06.274Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-fr@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-fr/extension": 53.7 ms [Finished 1.113 s after backend start]
+2022-12-08 19:37:06 2022-12-09T00:37:06.315Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-hu@1.48.3" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-hu/extension": 41.4 ms [Finished 1.154 s after backend start]
+2022-12-08 19:37:06 2022-12-09T00:37:06.345Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-it@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-it/extension": 29.5 ms [Finished 1.184 s after backend start]
+2022-12-08 19:37:06 2022-12-09T00:37:06.376Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-ja@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-ja/extension": 31.7 ms [Finished 1.216 s after backend start]
+2022-12-08 19:37:06 2022-12-09T00:37:06.415Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-ko@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-ko/extension": 38.3 ms [Finished 1.254 s after backend start]
+2022-12-08 19:37:06 2022-12-09T00:37:06.427Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-nl@1.48.3" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-nl/extension": 12.5 ms [Finished 1.266 s after backend start]
+2022-12-08 19:37:06 2022-12-09T00:37:06.462Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-pl@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-pl/extension": 35.0 ms [Finished 1.301 s after backend start]
+2022-12-08 19:37:06 2022-12-09T00:37:06.499Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-pt-br@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-pt-BR/extension": 36.8 ms [Finished 1.338 s after backend start]
+2022-12-08 19:37:06 2022-12-09T00:37:06.535Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-ru@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-ru/extension": 35.9 ms [Finished 1.374 s after backend start]
+2022-12-08 19:37:06 2022-12-09T00:37:06.569Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-tr@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-tr/extension": 34.0 ms [Finished 1.408 s after backend start]
+2022-12-08 19:37:06 2022-12-09T00:37:06.592Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-uk@1.48.3" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-uk/extension": 22.7 ms [Finished 1.431 s after backend start]
+2022-12-08 19:37:06 2022-12-09T00:37:06.629Z root INFO Deployed backend plugin "ms-ceintl.vscode-language-pack-zh-hans@1.53.2" from "/opt/arduino-ide/resources/app/plugins/vscode-language-pack-zh-hans/extension": 31.8 ms [Finished 1.463 s after backend start]
+2022-12-08 19:37:06 2022-12-09T00:37:06.629Z root INFO Deploy plugins list: 67.7 ms [Finished 1.468 s after backend start]
+2022-12-08 19:37:07 2022-12-09T00:37:07.510Z root WARN Frontend a.configure took longer than the expected maximum 100 milliseconds: 245.0 ms [Finished 1.520 s after frontend start]
+2022-12-08 19:37:07 2022-12-09T00:37:07.684Z root INFO Start frontend contributions: 492.7 ms [Finished 1.681 s after frontend start]
+2022-12-08 19:37:07 2022-12-09T00:37:07.684Z root INFO Changed application state from 'init' to 'started_contributions'.
+2022-12-08 19:37:07 2022-12-09T00:37:07.690Z root INFO Changed application state from 'started_contributions' to 'attached_shell'.
+2022-12-08 19:37:07 2022-12-09T00:37:07.691Z root INFO >>> Restoring the layout state...
+2022-12-08 19:37:07 2022-12-09T00:37:07.691Z root INFO <<< Nothing to restore.
+2022-12-08 19:37:07 2022-12-09T00:37:07.724Z root INFO Initialize the workbench layout: 23.7 ms [Finished 1.745 s after frontend start]
+2022-12-08 19:37:07 2022-12-09T00:37:07.737Z root INFO Changed application state from 'attached_shell' to 'initialized_layout'.
+2022-12-08 19:37:07 2022-12-09T00:37:07.754Z root INFO [79a0e94d-7893-4169-8324-10185feecf04] Waiting for backend deployment: 104.0 ms [Finished 1.782 s after frontend start]
+2022-12-08 19:37:07 2022-12-09T00:37:07.849Z root ERROR Request initAuthSession failed with error: The name org.freedesktop.secrets was not provided by any .service files
+2022-12-08 19:37:08 2022-12-09T00:37:08.129Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137) starting instance
+2022-12-08 19:37:08 2022-12-09T00:37:08.591Z root INFO [79a0e94d-7893-4169-8324-10185feecf04] Sync of 21 plugins: 810.3 ms [Finished 2.592 s after frontend start]
+2022-12-08 19:37:08 2022-12-09T00:37:08.594Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][marus25.cortex-debug]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.595Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][arduino.vscode-arduino-tools]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.595Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][vscode.cpp]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.595Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][vscode.json]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.595Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][vscode.json-language-features]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.595Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-bg]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.595Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-cs]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.595Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-de]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.595Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-es]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.595Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-fr]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.597Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-hu]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.597Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-it]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.598Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-ja]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.598Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-ko]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.598Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-nl]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.598Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-pl]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.598Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-pt-br]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.598Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-ru]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.598Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-tr]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.598Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-uk]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.598Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-zh-hans]: Loaded contributions.
+2022-12-08 19:37:08 2022-12-09T00:37:08.598Z root INFO [79a0e94d-7893-4169-8324-10185feecf04] Load contributions of 21 plugins: 27.1 ms [Finished 2.619 s after frontend start]
+2022-12-08 19:37:09 2022-12-09T00:37:09.116Z root INFO Frontend application start: 1629.2 ms [Finished 3.954 s after backend start]
+2022-12-08 19:37:09 2022-12-09T00:37:09.120Z root INFO Replace loading indicator with ready workbench UI (animation): 1036.4 ms [Finished 2.792 s after frontend start]
+2022-12-08 19:37:09 2022-12-09T00:37:09.121Z root INFO Changed application state from 'initialized_layout' to 'ready'.
+2022-12-08 19:37:09 2022-12-09T00:37:09.121Z root WARN Linked preference "workbench.colorCustomizations" not found. Source: "editor.bracketPairColorization.enabled"
+2022-12-08 19:37:09 2022-12-09T00:37:09.194Z root WARN 'cpp' language is remapped from 'source.cpp.embedded.macro' to 'source.cpp' scope
+2022-12-08 19:37:09 2022-12-09T00:37:09.194Z root WARN a registered grammar configuration for 'cpp' language is overridden
+2022-12-08 19:37:10 2022-12-09T00:37:10.583Z root ERROR ---- !!!SLOW!!! DURATION: search took 855.479 ms. Args: [{"type":"Updatable"}] ----
+2022-12-08 19:37:10 2022-12-09T00:37:10.806Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): PluginManagerExtImpl/init()
+2022-12-08 19:37:10 2022-12-09T00:37:10.808Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(cortex-debug@1.5.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.810Z root INFO [hosted-plugin: 49137] Debugger contribution has been registered: cortex-debug
+2022-12-08 19:37:10 2022-12-09T00:37:10.811Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(vscode-arduino-tools@0.0.2-beta.5 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.812Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(cpp@1.52.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.812Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(json@1.46.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.813Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(json-language-features@1.46.1 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.814Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(vscode-language-pack-bg@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.814Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(vscode-language-pack-cs@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.815Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(vscode-language-pack-de@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.815Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(vscode-language-pack-es@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.816Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(vscode-language-pack-fr@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.817Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(vscode-language-pack-hu@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.817Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(vscode-language-pack-it@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.818Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(vscode-language-pack-ja@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.818Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(vscode-language-pack-ko@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.818Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(vscode-language-pack-nl@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.819Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(vscode-language-pack-pl@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.819Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(vscode-language-pack-pt-BR@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.819Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(vscode-language-pack-ru@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.820Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(vscode-language-pack-tr@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.820Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(vscode-language-pack-uk@1.48.3 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.820Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): initializing(vscode-language-pack-zh-hans@1.53.2 with /opt/arduino-ide/resources/app/node_modules/@theia/plugin-ext-vscode/lib/node/plugin-vscode-init)
+2022-12-08 19:37:10 2022-12-09T00:37:10.823Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/vscode-builtin-json-language-features/extension/client/dist/jsonMain)
+2022-12-08 19:37:10 2022-12-09T00:37:10.856Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][marus25.cortex-debug]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.859Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][arduino.vscode-arduino-tools]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.859Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][vscode.cpp]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.859Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][vscode.json]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.859Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][vscode.json-language-features]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.859Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-bg]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.859Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-cs]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.860Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-de]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.860Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-es]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.860Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-fr]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.860Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-hu]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.860Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-it]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.860Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-ja]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.864Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-ko]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.864Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-nl]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.864Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-pl]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.865Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-pt-br]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.865Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-ru]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.865Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-tr]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.865Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-uk]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.865Z root INFO [79a0e94d-7893-4169-8324-10185feecf04][ms-ceintl.vscode-language-pack-zh-hans]: Started plugin.
+2022-12-08 19:37:10 2022-12-09T00:37:10.875Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/cortex-debug/extension/dist/extension.js)
+2022-12-08 19:37:10 2022-12-09T00:37:10.904Z root INFO [hosted-plugin: 49137] Debug configuration provider has been registered: cortex-debug, trigger: 1
+2022-12-08 19:37:10 2022-12-09T00:37:10.906Z root INFO [hosted-plugin: 49137] GDB server console created
+2022-12-08 19:37:10 2022-12-09T00:37:10.915Z root INFO [79a0e94d-7893-4169-8324-10185feecf04] Start of 21 plugins: 2308.6 ms [Finished 4.945 s after frontend start]
+2022-12-08 19:37:10 2022-12-09T00:37:10.926Z root INFO Starting language server: arduino:avr:uno
+2022-12-08 19:37:10 2022-12-09T00:37:10.942Z root INFO [hosted-plugin: 49137] PLUGIN_HOST(49137): PluginManagerExtImpl/loadPlugin(/opt/arduino-ide/resources/app/plugins/vscode-arduino-tools/extension/dist/bundle)
+2022-12-08 19:37:10 2022-12-09T00:37:10.979Z daemon INFO [36mINFO[0m[0005] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0005] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0005] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+
+2022-12-08 19:37:10 2022-12-09T00:37:10.979Z daemon INFO [36mINFO[0m[0005] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0005] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0005] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0005] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:37:11 2022-12-09T00:37:11.004Z daemon INFO [36mINFO[0m[0005] Resolving include Servo.h for arch avr       
+[36mINFO[0m[0005]   found better lib                            [36mlib[0m=Servo [36mprio[0m=64A
+
+2022-12-08 19:37:11 2022-12-09T00:37:11.307Z daemon INFO [36mINFO[0m[0005] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0005] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0005] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+
+2022-12-08 19:37:11 2022-12-09T00:37:11.308Z daemon INFO [36mINFO[0m[0005] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:37:13 2022-12-09T00:37:13.612Z daemon INFO [36mINFO[0m[0007] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0007] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0007] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0007] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0007] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0007] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0007] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:37:13 2022-12-09T00:37:13.650Z daemon INFO [36mINFO[0m[0007] Resolving include Servo.h for arch avr       
+[36mINFO[0m[0007]   found better lib                            [36mlib[0m=Servo [36mprio[0m=64A
+
+2022-12-08 19:37:13 2022-12-09T00:37:13.963Z root INFO Executing 'arduino.languageserver.notifyBuildDidComplete' with {"buildOutputUri":"file:///tmp/arduino-sketch-F50F51361DEFE5D1C9CD07EAF7D72D4F"}
+2022-12-08 19:37:13 2022-12-09T00:37:13.969Z daemon INFO [36mINFO[0m[0008] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:37:13 2022-12-09T00:37:13.969Z daemon INFO [36mINFO[0m[0008] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0008] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0008] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0008] Tool required for upload                      [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0008] Tool required for upload                      [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0008] Tool required for upload                      [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0008] Tool required for upload                      [36mtool[0m="builtin:serial-discovery@1.3.2"
+[36mINFO[0m[0008] Tool required for upload                      [36mtool[0m="builtin:serial-monitor@0.11.0"
+[36mINFO[0m[0008] Tool required for upload                      [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[0008] Tool required for upload                      [36mtool[0m="builtin:mdns-discovery@1.0.6"
+
+2022-12-08 19:37:14 2022-12-09T00:37:14.971Z daemon INFO [36mINFO[0m[0009] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0009] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0009] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+
+2022-12-08 19:37:14 2022-12-09T00:37:14.971Z daemon INFO [36mINFO[0m[0009] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:38:50 2022-12-09T00:38:50.678Z daemon INFO [36mINFO[0m[0104] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0104] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+
+2022-12-08 19:38:50 2022-12-09T00:38:50.679Z daemon INFO [36mINFO[0m[0104] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0104] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:38:54 2022-12-09T00:38:54.034Z daemon INFO [36mINFO[0m[0108] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0108] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0108] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0108] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:38:59 2022-12-09T00:38:59.644Z daemon INFO [36mINFO[0m[0113] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0113] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+
+2022-12-08 19:38:59 2022-12-09T00:38:59.644Z daemon INFO [36mINFO[0m[0113] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0113] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:03 2022-12-09T00:39:03.646Z daemon INFO [36mINFO[0m[0117] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0117] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0117] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0117] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:05 2022-12-09T00:39:05.115Z daemon INFO [36mINFO[0m[0119] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:39:05 2022-12-09T00:39:05.115Z daemon INFO [36mINFO[0m[0119] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0119] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0119] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:06 2022-12-09T00:39:06.734Z daemon INFO [36mINFO[0m[0120] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0120] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0120] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+
+2022-12-08 19:39:06 2022-12-09T00:39:06.734Z daemon INFO [36mINFO[0m[0120] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:09 2022-12-09T00:39:09.050Z daemon INFO [36mINFO[0m[0123] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0123] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+
+2022-12-08 19:39:09 2022-12-09T00:39:09.050Z daemon INFO [36mINFO[0m[0123] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0123] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:10 2022-12-09T00:39:10.344Z daemon INFO [36mINFO[0m[0124] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0124] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0124] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0124] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:14 2022-12-09T00:39:14.186Z daemon INFO [36mINFO[0m[0128] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0128] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0128] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0128] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:17 2022-12-09T00:39:17.742Z daemon INFO [36mINFO[0m[0131] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0131] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0131] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0131] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:20 2022-12-09T00:39:20.973Z daemon INFO [36mINFO[0m[0135] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:39:20 2022-12-09T00:39:20.974Z daemon INFO [36mINFO[0m[0135] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0135] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0135] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:27 2022-12-09T00:39:27.019Z daemon INFO [36mINFO[0m[0141] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0141] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0141] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+
+2022-12-08 19:39:27 2022-12-09T00:39:27.019Z daemon INFO [36mINFO[0m[0141] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:30 2022-12-09T00:39:30.765Z daemon INFO [36mINFO[0m[0144] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0144] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0144] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0144] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:31 2022-12-09T00:39:31.906Z daemon INFO [36mINFO[0m[0145] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0145] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0145] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0145] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:33 2022-12-09T00:39:33.141Z daemon INFO [36mINFO[0m[0147] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0147] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0147] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0147] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:34 2022-12-09T00:39:34.279Z daemon INFO [36mINFO[0m[0148] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0148] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0148] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0148] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:37 2022-12-09T00:39:37.621Z daemon INFO [36mINFO[0m[0151] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0151] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0151] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0151] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:39 2022-12-09T00:39:39.539Z daemon INFO [36mINFO[0m[0153] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0153] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0153] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+
+2022-12-08 19:39:39 2022-12-09T00:39:39.540Z daemon INFO [36mINFO[0m[0153] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:45 2022-12-09T00:39:45.122Z daemon INFO [36mINFO[0m[0159] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:39:45 2022-12-09T00:39:45.123Z daemon INFO [36mINFO[0m[0159] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0159] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0159] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:48 2022-12-09T00:39:48.314Z daemon INFO [36mINFO[0m[0162] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:39:48 2022-12-09T00:39:48.315Z daemon INFO [36mINFO[0m[0162] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0162] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0162] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:51 2022-12-09T00:39:51.677Z daemon INFO [36mINFO[0m[0165] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0165] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0165] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+
+2022-12-08 19:39:51 2022-12-09T00:39:51.677Z daemon INFO [36mINFO[0m[0165] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:53 2022-12-09T00:39:53.729Z daemon INFO [36mINFO[0m[0167] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0167] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0167] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0167] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:57 2022-12-09T00:39:57.954Z daemon INFO [36mINFO[0m[0172] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:39:57 2022-12-09T00:39:57.955Z daemon INFO [36mINFO[0m[0172] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0172] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0172] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:39:59 2022-12-09T00:39:59.098Z daemon INFO [36mINFO[0m[0173] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0173] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+
+2022-12-08 19:39:59 2022-12-09T00:39:59.098Z daemon INFO [36mINFO[0m[0173] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0173] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:40:01 2022-12-09T00:40:01.521Z daemon INFO [36mINFO[0m[0175] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0175] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+
+2022-12-08 19:40:01 2022-12-09T00:40:01.524Z daemon INFO [36mINFO[0m[0175] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0175] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0175] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0175] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0175] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:40:01 2022-12-09T00:40:01.552Z daemon INFO [36mINFO[0m[0175] Resolving include Servo.h for arch avr       
+[36mINFO[0m[0175]   found better lib                            [36mlib[0m=Servo [36mprio[0m=64A
+
+2022-12-08 19:40:01 2022-12-09T00:40:01.729Z root INFO Executing 'arduino.languageserver.notifyBuildDidComplete' with {"buildOutputUri":"file:///tmp/arduino-sketch-F50F51361DEFE5D1C9CD07EAF7D72D4F"}
+2022-12-08 19:40:01 2022-12-09T00:40:01.749Z root INFO compiler-errors
+2022-12-08 19:40:01 2022-12-09T00:40:01.777Z root INFO compiler-errors
+2022-12-08 19:40:02 2022-12-09T00:40:02.754Z daemon INFO [36mINFO[0m[0176] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0176] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+
+2022-12-08 19:40:02 2022-12-09T00:40:02.754Z daemon INFO [36mINFO[0m[0176] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0176] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:40:13 2022-12-09T00:40:13.348Z daemon INFO [36mINFO[0m[0187] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0187] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0187] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0187] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0187] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0187] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0187] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:40:13 2022-12-09T00:40:13.391Z daemon INFO [36mINFO[0m[0187] Resolving include Servo.h for arch avr       
+[36mINFO[0m[0187]   found better lib                            [36mlib[0m=Servo [36mprio[0m=64A
+
+2022-12-08 19:40:13 2022-12-09T00:40:13.587Z root INFO Executing 'arduino.languageserver.notifyBuildDidComplete' with {"buildOutputUri":"file:///tmp/arduino-sketch-F50F51361DEFE5D1C9CD07EAF7D72D4F"}
+2022-12-08 19:40:13 2022-12-09T00:40:13.592Z root INFO compiler-errors
+2022-12-08 19:40:14 2022-12-09T00:40:14.596Z daemon INFO [36mINFO[0m[0188] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:40:14 2022-12-09T00:40:14.596Z daemon INFO [36mINFO[0m[0188] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0188] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0188] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:40:34 2022-12-09T00:40:34.160Z daemon INFO [36mINFO[0m[0208] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0208] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0208] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0208] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0208] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0208] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0208] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:40:34 2022-12-09T00:40:34.200Z daemon INFO [36mINFO[0m[0208] Resolving include Servo.h for arch avr       
+[36mINFO[0m[0208]   found better lib                            [36mlib[0m=Servo [36mprio[0m=64A
+
+2022-12-08 19:40:34 2022-12-09T00:40:34.393Z root INFO Executing 'arduino.languageserver.notifyBuildDidComplete' with {"buildOutputUri":"file:///tmp/arduino-sketch-F50F51361DEFE5D1C9CD07EAF7D72D4F"}
+2022-12-08 19:40:34 2022-12-09T00:40:34.404Z root INFO compiler-errors
+2022-12-08 19:40:35 2022-12-09T00:40:35.407Z daemon INFO [36mINFO[0m[0209] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:40:35 2022-12-09T00:40:35.407Z daemon INFO [36mINFO[0m[0209] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0209] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0209] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:40:36 2022-12-09T00:40:36.980Z root INFO compiler-errors
+2022-12-08 19:40:36 2022-12-09T00:40:36.980Z root INFO compiler-errors
+2022-12-08 19:40:39 2022-12-09T00:40:39.339Z root INFO compiler-errors
+2022-12-08 19:40:39 2022-12-09T00:40:39.339Z root INFO compiler-errors
+2022-12-08 19:40:39 2022-12-09T00:40:39.893Z root INFO compiler-errors
+2022-12-08 19:40:40 2022-12-09T00:40:40.969Z root INFO compiler-errors
+2022-12-08 19:40:40 2022-12-09T00:40:40.969Z root INFO compiler-errors
+2022-12-08 19:40:40 2022-12-09T00:40:40.970Z root INFO compiler-errors
+2022-12-08 19:40:41 2022-12-09T00:40:41.517Z root INFO compiler-errors
+2022-12-08 19:40:41 2022-12-09T00:40:41.517Z root INFO compiler-errors
+2022-12-08 19:40:43 2022-12-09T00:40:43.527Z daemon INFO [36mINFO[0m[0217] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0217] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+
+2022-12-08 19:40:43 2022-12-09T00:40:43.527Z daemon INFO [36mINFO[0m[0217] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0217] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:40:43 2022-12-09T00:40:43.613Z daemon INFO [36mINFO[0m[0217] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0217] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0217] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0217] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0217] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0217] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0217] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:40:43 2022-12-09T00:40:43.649Z daemon INFO [36mINFO[0m[0217] Resolving include Servo.h for arch avr       
+[36mINFO[0m[0217]   found better lib                            [36mlib[0m=Servo [36mprio[0m=64A
+
+2022-12-08 19:40:43 2022-12-09T00:40:43.888Z root INFO Executing 'arduino.languageserver.notifyBuildDidComplete' with {"buildOutputUri":"file:///tmp/arduino-sketch-F50F51361DEFE5D1C9CD07EAF7D72D4F"}
+2022-12-08 19:40:43 2022-12-09T00:40:43.893Z daemon INFO [36mINFO[0m[0217] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:40:43 2022-12-09T00:40:43.893Z daemon INFO [36mINFO[0m[0217] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0217] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0217] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0217] Tool required for upload                      [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0217] Tool required for upload                      [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0217] Tool required for upload                      [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0217] Tool required for upload                      [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[0217] Tool required for upload                      [36mtool[0m="builtin:mdns-discovery@1.0.6"
+[36mINFO[0m[0217] Tool required for upload                      [36mtool[0m="builtin:serial-discovery@1.3.2"
+[36mINFO[0m[0217] Tool required for upload                      [36mtool[0m="builtin:serial-monitor@0.11.0"
+
+2022-12-08 19:40:44 2022-12-09T00:40:44.894Z daemon INFO [36mINFO[0m[0218] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:40:44 2022-12-09T00:40:44.894Z daemon INFO [36mINFO[0m[0218] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0218] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0218] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:43:33 2022-12-09T00:43:33.833Z daemon INFO [36mINFO[0m[0387] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0387] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0387] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0387] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:43:37 2022-12-09T00:43:37.084Z daemon INFO [36mINFO[0m[0391] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:43:37 2022-12-09T00:43:37.084Z daemon INFO [36mINFO[0m[0391] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0391] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0391] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:43:38 2022-12-09T00:43:38.891Z daemon INFO [36mINFO[0m[0392] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:43:38 2022-12-09T00:43:38.891Z daemon INFO [36mINFO[0m[0392] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0392] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0392] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:43:40 2022-12-09T00:43:40.852Z daemon INFO [36mINFO[0m[0394] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:43:40 2022-12-09T00:43:40.852Z daemon INFO [36mINFO[0m[0394] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0394] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0394] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:43:41 2022-12-09T00:43:41.374Z daemon INFO [36mINFO[0m[0395] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0395] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0395] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0395] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0395] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0395] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0395] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:43:41 2022-12-09T00:43:41.414Z daemon INFO [36mINFO[0m[0395] Resolving include Servo.h for arch avr       
+[36mINFO[0m[0395]   found better lib                            [36mlib[0m=Servo [36mprio[0m=64A
+
+2022-12-08 19:43:41 2022-12-09T00:43:41.681Z root INFO Executing 'arduino.languageserver.notifyBuildDidComplete' with {"buildOutputUri":"file:///tmp/arduino-sketch-F50F51361DEFE5D1C9CD07EAF7D72D4F"}
+2022-12-08 19:43:41 2022-12-09T00:43:41.685Z daemon INFO [36mINFO[0m[0395] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:43:41 2022-12-09T00:43:41.686Z daemon INFO [36mINFO[0m[0395] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0395] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0395] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0395] Tool required for upload                      [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0395] Tool required for upload                      [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0395] Tool required for upload                      [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0395] Tool required for upload                      [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[0395] Tool required for upload                      [36mtool[0m="builtin:mdns-discovery@1.0.6"
+[36mINFO[0m[0395] Tool required for upload                      [36mtool[0m="builtin:serial-discovery@1.3.2"
+[36mINFO[0m[0395] Tool required for upload                      [36mtool[0m="builtin:serial-monitor@0.11.0"
+
+2022-12-08 19:43:42 2022-12-09T00:43:42.685Z daemon INFO [36mINFO[0m[0396] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0396] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0396] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0396] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:49:38 2022-12-09T00:49:38.137Z daemon INFO [36mINFO[0m[0752] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0752] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0752] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0752] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:49:40 2022-12-09T00:49:40.285Z daemon INFO [36mINFO[0m[0754] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0754] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+
+2022-12-08 19:49:40 2022-12-09T00:49:40.286Z daemon INFO [36mINFO[0m[0754] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0754] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:49:41 2022-12-09T00:49:41.442Z daemon INFO [36mINFO[0m[0755] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0755] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0755] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0755] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:49:48 2022-12-09T00:49:48.902Z daemon INFO [36mINFO[0m[0762] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0762] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0762] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0762] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:49:50 2022-12-09T00:49:50.043Z daemon INFO [36mINFO[0m[0764] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0764] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0764] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0764] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:49:51 2022-12-09T00:49:51.118Z daemon INFO [36mINFO[0m[0765] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0765] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0765] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0765] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0765] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0765] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0765] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:49:51 2022-12-09T00:49:51.165Z daemon INFO [36mINFO[0m[0765] Resolving include Servo.h for arch avr       
+[36mINFO[0m[0765]   found better lib                            [36mlib[0m=Servo [36mprio[0m=64A
+
+2022-12-08 19:49:51 2022-12-09T00:49:51.355Z root INFO Executing 'arduino.languageserver.notifyBuildDidComplete' with {"buildOutputUri":"file:///tmp/arduino-sketch-F50F51361DEFE5D1C9CD07EAF7D72D4F"}
+2022-12-08 19:49:51 2022-12-09T00:49:51.371Z root INFO compiler-errors
+2022-12-08 19:49:51 2022-12-09T00:49:51.387Z root INFO compiler-errors
+2022-12-08 19:49:52 2022-12-09T00:49:52.396Z daemon INFO [36mINFO[0m[0766] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0766] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0766] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0766] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 19:49:53 2022-12-09T00:49:53.474Z root INFO compiler-errors
+2022-12-08 19:49:53 2022-12-09T00:49:53.474Z root INFO compiler-errors
+2022-12-08 19:49:54 2022-12-09T00:49:54.468Z root INFO compiler-errors
+2022-12-08 19:49:54 2022-12-09T00:49:54.469Z root INFO compiler-errors
+2022-12-08 19:49:54 2022-12-09T00:49:54.469Z root INFO compiler-errors
+2022-12-08 19:49:54 2022-12-09T00:49:54.469Z root INFO compiler-errors
+2022-12-08 19:49:55 2022-12-09T00:49:55.518Z root INFO compiler-errors
+2022-12-08 19:49:55 2022-12-09T00:49:55.518Z root INFO compiler-errors
+2022-12-08 19:49:55 2022-12-09T00:49:55.672Z root INFO compiler-errors
+2022-12-08 19:49:55 2022-12-09T00:49:55.673Z root INFO compiler-errors
+2022-12-08 19:49:55 2022-12-09T00:49:55.673Z root INFO compiler-errors
+2022-12-08 19:49:55 2022-12-09T00:49:55.673Z root INFO compiler-errors
+2022-12-08 19:49:56 2022-12-09T00:49:56.489Z daemon INFO [36mINFO[0m[0770] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0770] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0770] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0770] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0770] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/libraries [36mlocation[0m=ide
+[36mINFO[0m[0770] Adding libraries dir                          [36mdir[0m=/home/goldrn/.arduino15/packages/arduino/hardware/avr/1.8.6/libraries [36mlocation[0m=platform
+[36mINFO[0m[0770] Adding libraries dir                          [36mdir[0m=/home/goldrn/Arduino/libraries [36mlocation[0m=user
+
+2022-12-08 19:49:56 2022-12-09T00:49:56.538Z daemon INFO [36mINFO[0m[0770] Resolving include Servo.h for arch avr       
+
+2022-12-08 19:49:56 2022-12-09T00:49:56.538Z daemon INFO [36mINFO[0m[0770]   found better lib                            [36mlib[0m=Servo [36mprio[0m=64A
+
+2022-12-08 19:49:56 2022-12-09T00:49:56.829Z root INFO Executing 'arduino.languageserver.notifyBuildDidComplete' with {"buildOutputUri":"file:///tmp/arduino-sketch-F50F51361DEFE5D1C9CD07EAF7D72D4F"}
+2022-12-08 19:49:56 2022-12-09T00:49:56.833Z daemon INFO [36mINFO[0m[0770] Searching tools required for board arduino:avr:uno 
+
+2022-12-08 19:49:56 2022-12-09T00:49:56.834Z daemon INFO [36mINFO[0m[0770] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0770] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0770] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0770] Tool required for upload                      [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0770] Tool required for upload                      [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0770] Tool required for upload                      [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+[36mINFO[0m[0770] Tool required for upload                      [36mtool[0m="builtin:ctags@5.8-arduino11"
+[36mINFO[0m[0770] Tool required for upload                      [36mtool[0m="builtin:mdns-discovery@1.0.6"
+[36mINFO[0m[0770] Tool required for upload                      [36mtool[0m="builtin:serial-discovery@1.3.2"
+[36mINFO[0m[0770] Tool required for upload                      [36mtool[0m="builtin:serial-monitor@0.11.0"
+
+2022-12-08 19:49:57 2022-12-09T00:49:57.834Z daemon INFO [36mINFO[0m[0771] Searching tools required for board arduino:avr:uno 
+[36mINFO[0m[0771] Required tool                                 [36mtool[0m="arduino:arduinoOTA@1.3.0"
+[36mINFO[0m[0771] Required tool                                 [36mtool[0m="arduino:avr-gcc@7.3.0-atmel3.6.1-arduino7"
+[36mINFO[0m[0771] Required tool                                 [36mtool[0m="arduino:avrdude@6.3.0-arduino17"
+
+2022-12-08 20:08:19 2022-12-09T01:08:19.873Z daemon INFO [36mINFO[0m[1873] from discovery builtin:serial-discovery received message type: remove, port: /dev/ttyACM0 
+
+2022-12-08 20:08:19 2022-12-09T01:08:19.873Z daemon INFO [36mINFO[0m[2593] from discovery builtin:serial-discovery received message type: remove, port: /dev/ttyACM0 
+
+2022-12-08 20:08:19 2022-12-09T01:08:19.873Z daemon INFO [36mINFO[0m[2593] from discovery builtin:serial-discovery received message type: remove, port: /dev/ttyACM0 
+[36mINFO[0m[2593] from discovery builtin:serial-discovery received message type: remove, port: /dev/ttyACM0 
+
+2022-12-08 20:08:19 2022-12-09T01:08:19.875Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyACM0","label":"","protocol":"serial","protocolLabel":"","propertiesMap":[]}},"error":""}
+2022-12-08 20:08:19 2022-12-09T01:08:19.875Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyACM0","label":"","protocol":"serial","protocolLabel":"","propertiesMap":[]}},"error":""}
+2022-12-08 20:08:20 2022-12-09T01:08:20.073Z root INFO Attached boards and available ports changed:
+2022-12-08 20:08:20 2022-12-09T01:08:20.073Z root INFO  - Detached board: Arduino Uno [arduino:avr:uno] from /dev/ttyACM0 Serial Port (USB)
+2022-12-08 20:08:20 2022-12-09T01:08:20.073Z root INFO ------------------------------------------
+2022-12-08 20:08:20 2022-12-09T01:08:20.434Z daemon INFO [36mINFO[0m[2593] from discovery builtin:serial-discovery received message type: add, port: /dev/ttyACM0 
+[36mINFO[0m[2593] from discovery builtin:serial-discovery received message type: add, port: /dev/ttyACM0 
+
+2022-12-08 20:08:20 2022-12-09T01:08:20.436Z daemon INFO [36mINFO[0m[1874] from discovery builtin:serial-discovery received message type: add, port: /dev/ttyACM0 
+
+2022-12-08 20:08:20 2022-12-09T01:08:20.435Z daemon INFO [36mINFO[0m[2593] from discovery builtin:serial-discovery received message type: add, port: /dev/ttyACM0 
+
+2022-12-08 20:08:20 2022-12-09T01:08:20.436Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[{"name":"Arduino Uno","fqbn":"arduino:avr:uno","isHidden":false}],"port":{"address":"/dev/ttyACM0","label":"/dev/ttyACM0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x0043"],["serialNumber","950383033313511061A1"],["vid","0x2341"]]}},"error":""}
+2022-12-08 20:08:20 2022-12-09T01:08:20.437Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[{"name":"Arduino Uno","fqbn":"arduino:avr:uno","isHidden":false}],"port":{"address":"/dev/ttyACM0","label":"/dev/ttyACM0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x0043"],["serialNumber","950383033313511061A1"],["vid","0x2341"]]}},"error":""}
+2022-12-08 20:08:20 2022-12-09T01:08:20.440Z root INFO Attached boards and available ports changed:
+2022-12-08 20:08:20 2022-12-09T01:08:20.440Z root INFO  - Attached board: Arduino Uno [arduino:avr:uno] on /dev/ttyACM0 Serial Port (USB)
+2022-12-08 20:08:20 2022-12-09T01:08:20.440Z root INFO ------------------------------------------
+2022-12-08 20:53:10 2022-12-09T01:53:10.025Z daemon INFO [36mINFO[0m[4564] from discovery builtin:serial-discovery received message type: remove, port: /dev/ttyACM0 
+
+2022-12-08 20:53:10 2022-12-09T01:53:10.025Z daemon INFO [36mINFO[0m[5283] from discovery builtin:serial-discovery received message type: remove, port: /dev/ttyACM0 
+[36mINFO[0m[5283] from discovery builtin:serial-discovery received message type: remove, port: /dev/ttyACM0 
+
+2022-12-08 20:53:10 2022-12-09T01:53:10.026Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyACM0","label":"","protocol":"serial","protocolLabel":"","propertiesMap":[]}},"error":""}
+2022-12-08 20:53:10 2022-12-09T01:53:10.026Z daemon INFO [36mINFO[0m[5283] from discovery builtin:serial-discovery received message type: remove, port: /dev/ttyACM0 
+
+2022-12-08 20:53:10 2022-12-09T01:53:10.026Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyACM0","label":"","protocol":"serial","protocolLabel":"","propertiesMap":[]}},"error":""}
+2022-12-08 20:53:10 2022-12-09T01:53:10.149Z root INFO Attached boards and available ports changed:
+2022-12-08 20:53:10 2022-12-09T01:53:10.149Z root INFO  - Detached board: Arduino Uno [arduino:avr:uno] from /dev/ttyACM0 Serial Port (USB)
+2022-12-08 20:53:10 2022-12-09T01:53:10.149Z root INFO ------------------------------------------
+2022-12-08 20:53:10 2022-12-09T01:53:10.531Z daemon INFO [36mINFO[0m[5283] from discovery builtin:serial-discovery received message type: add, port: /dev/ttyACM0 
+
+2022-12-08 20:53:10 2022-12-09T01:53:10.532Z daemon INFO [36mINFO[0m[4564] from discovery builtin:serial-discovery received message type: add, port: /dev/ttyACM0 
+
+2022-12-08 20:53:10 2022-12-09T01:53:10.532Z daemon INFO [36mINFO[0m[5283] from discovery builtin:serial-discovery received message type: add, port: /dev/ttyACM0 
+[36mINFO[0m[5283] from discovery builtin:serial-discovery received message type: add, port: /dev/ttyACM0 
+
+2022-12-08 20:53:10 2022-12-09T01:53:10.533Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[{"name":"Arduino Uno","fqbn":"arduino:avr:uno","isHidden":false}],"port":{"address":"/dev/ttyACM0","label":"/dev/ttyACM0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x0043"],["serialNumber","950383033313511061A1"],["vid","0x2341"]]}},"error":""}
+2022-12-08 20:53:10 2022-12-09T01:53:10.533Z discovery-log INFO {"eventType":"add","port":{"matchingBoardsList":[{"name":"Arduino Uno","fqbn":"arduino:avr:uno","isHidden":false}],"port":{"address":"/dev/ttyACM0","label":"/dev/ttyACM0","protocol":"serial","protocolLabel":"Serial Port (USB)","propertiesMap":[["pid","0x0043"],["serialNumber","950383033313511061A1"],["vid","0x2341"]]}},"error":""}
+2022-12-08 20:53:10 2022-12-09T01:53:10.535Z root INFO Attached boards and available ports changed:
+2022-12-08 20:53:10 2022-12-09T01:53:10.536Z root INFO  - Attached board: Arduino Uno [arduino:avr:uno] on /dev/ttyACM0 Serial Port (USB)
+2022-12-08 20:53:10 2022-12-09T01:53:10.536Z root INFO ------------------------------------------
+2022-12-08 20:53:15 2022-12-09T01:53:15.781Z daemon INFO [36mINFO[0m[5289] from discovery builtin:serial-discovery received message type: remove, port: /dev/ttyACM0 
+[36mINFO[0m[5289] from discovery builtin:serial-discovery received message type: remove, port: /dev/ttyACM0 
+
+2022-12-08 20:53:15 2022-12-09T01:53:15.781Z daemon INFO [36mINFO[0m[4569] from discovery builtin:serial-discovery received message type: remove, port: /dev/ttyACM0 
+
+2022-12-08 20:53:15 2022-12-09T01:53:15.781Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyACM0","label":"","protocol":"serial","protocolLabel":"","propertiesMap":[]}},"error":""}
+2022-12-08 20:53:15 2022-12-09T01:53:15.781Z daemon INFO [36mINFO[0m[5289] from discovery builtin:serial-discovery received message type: remove, port: /dev/ttyACM0 
+
+2022-12-08 20:53:15 2022-12-09T01:53:15.782Z discovery-log INFO {"eventType":"remove","port":{"matchingBoardsList":[],"port":{"address":"/dev/ttyACM0","label":"","protocol":"serial","protocolLabel":"","propertiesMap":[]}},"error":""}
+2022-12-08 20:53:15 2022-12-09T01:53:15.930Z root INFO Attached boards and available ports changed:
+2022-12-08 20:53:15 2022-12-09T01:53:15.931Z root INFO  - Detached board: Arduino Uno [arduino:avr:uno] from /dev/ttyACM0 Serial Port (USB)
+2022-12-08 20:53:15 2022-12-09T01:53:15.931Z root INFO ------------------------------------------

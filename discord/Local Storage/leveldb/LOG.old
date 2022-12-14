@@ -1,0 +1,40 @@
+2022/12/10-22:16:23.103 2572 Reusing MANIFEST /home/goldrn/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/12/10-22:16:23.103 2572 Recovering log #153
+2022/12/10-22:16:23.106 2572 Level-0 table #156: started
+2022/12/10-22:16:23.119 2572 Level-0 table #156: 1249187 bytes OK
+2022/12/10-22:16:23.120 2572 Delete type=0 #153
+2022/12/10-23:07:00.656 2572 Level-0 table #159: started
+2022/12/10-23:07:00.657 2572 Level-0 table #159: 14320 bytes OK
+2022/12/10-23:07:00.658 2572 Delete type=0 #157
+2022/12/10-23:07:00.658 2572 Compacting 4@0 + 2@1 files
+2022/12/10-23:07:00.680 2572 Generated table #160@0: 72 keys, 2458131 bytes
+2022/12/10-23:07:00.681 2572 Generated table #161@0: 18 keys, 5128 bytes
+2022/12/10-23:07:00.681 2572 Compacted 4@0 + 2@1 files => 2463259 bytes
+2022/12/10-23:07:00.682 2572 compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/12/10-23:07:00.682 2572 Delete type=2 #150
+2022/12/10-23:07:00.682 2572 Delete type=2 #159
+2022/12/10-23:07:00.682 2572 Delete type=2 #152
+2022/12/10-23:07:00.682 2572 Delete type=2 #156
+2022/12/10-23:07:00.682 2572 Delete type=2 #154
+2022/12/10-23:07:00.682 2572 Delete type=2 #119
+2022/12/10-23:54:53.380 2fae Level-0 table #163: started
+2022/12/10-23:54:53.381 2fae Level-0 table #163: 12946 bytes OK
+2022/12/10-23:54:53.382 2fae Delete type=0 #158
+2022/12/11-14:16:34.315 5434 Level-0 table #165: started
+2022/12/11-14:16:34.327 5434 Level-0 table #165: 1252314 bytes OK
+2022/12/11-14:16:34.328 5434 Delete type=0 #162
+2022/12/11-15:34:37.454 5692 Level-0 table #167: started
+2022/12/11-15:34:37.467 5692 Level-0 table #167: 1243147 bytes OK
+2022/12/11-15:34:37.468 5692 Delete type=0 #164
+2022/12/11-16:18:38.954 6cad Level-0 table #169: started
+2022/12/11-16:18:38.955 6cad Level-0 table #169: 14839 bytes OK
+2022/12/11-16:18:38.957 6cad Delete type=0 #166
+2022/12/11-16:18:38.957 6cad Compacting 4@0 + 1@1 files
+2022/12/11-16:18:38.981 6cad Generated table #170@0: 73 keys, 2461563 bytes
+2022/12/11-16:18:38.981 6cad Compacted 4@0 + 1@1 files => 2461563 bytes
+2022/12/11-16:18:38.982 6cad compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/12/11-16:18:38.982 6cad Delete type=2 #165
+2022/12/11-16:18:38.982 6cad Delete type=2 #167
+2022/12/11-16:18:38.982 6cad Delete type=2 #163
+2022/12/11-16:18:38.982 6cad Delete type=2 #160
+2022/12/11-16:18:38.982 6cad Delete type=2 #169

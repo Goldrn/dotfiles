@@ -38,6 +38,9 @@ myConfig = def
     , layoutHook = myLayout      -- Use custom layouts
     , manageHook = myManageHook  -- Match on certain windows
     , startupHook = myStartupHook
+    , normalBorderColor = "#83a598"
+    , focusedBorderColor = "#d3869b"
+    , borderWidth = 2
     }
   `additionalKeysP`
     [ ("M-<Return>", spawn "kitty")
@@ -46,17 +49,20 @@ myConfig = def
     , ("M-c", kill)
     , ("M-f", spawn "firefox")
     , ("M-z", sendMessage ToggleStruts)
+    , ("M-d", spawn "~/Downloads/Discord/Discord")
     ]
 
 myManageHook :: ManageHook
 myManageHook = composeAll
     [ className =? "Gimp" --> doFloat
     , isDialog            --> doFloat
+    , className =? "RuneLite.AppImage" --> doFloat
     ]
 myStartupHook :: X ()
 myStartupHook = do
     spawnOnce "nitrogen --restore"
     spawnOnce "picom"
+    spawnOnce "lxappearance"
     spawn "setxkbmap us -variant colemak_dh"
 
 myLayout = smartSpacing 1 $ avoidStrutsOn [U] $ tiled ||| Full

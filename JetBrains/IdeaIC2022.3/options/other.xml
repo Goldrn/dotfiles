@@ -1,0 +1,78 @@
+<application>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Oracle OpenJDK 19.0.1" />
+        <option name="installDir" value="$USER_HOME$/.jdks/openjdk-19.0.1" />
+        <option name="sha256" value="7a466882c7adfa369319fe4adeb197ee5d7f79e75d641e9ef94abee1fc22b1fa" />
+        <option name="url" value="https://download.java.net/java/GA/jdk19.0.1/afdd2e245b014143b62ccb916125e3ce/10/GPL/openjdk-19.0.1_linux-x64_bin.tar.gz" />
+        <option name="versionText" value="19.0.1" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "InstalledPluginsSearchHistory": "libj\nlib\njava\njav",
+    "NewProjectWizard.gitState": "false",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.se.text.search": "true",
+    "SAVED_ANDROID_NPW_LANGUAGE": "Kotlin",
+    "SettingsSearchHistory": "java",
+    "appcds.runOnSecondStart": "IC-223.7571.182-3fa3f1ceb92934c7896e4379c81dd4c0403bba519be79d97e832245d4a5c971a",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IC-223.7571.182",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "eclipse.projects.detected": "",
+    "file.gist.reindex.count": "6",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "IC-223.7571.182",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "223-1.7.20-release-201-IJ7571.182",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "/home/goldrn/programing/java",
+    "previousColorScheme": "_@user_Darcula",
+    "project.wizard.group": "ComposeModuleBuilder",
+    "registry.to.advanced.settings.migration.build": "IC-223.7571.182",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/goldrn/programing/java/all-nighter-game-jam",
+      "/home/goldrn/programming/java/all-hells-loose",
+      "/home/goldrn/programing/java"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "CtrlW": 1670908002752,
+    "SpeedSearch": 1670908004223,
+    "CommentCode": 1670908001263,
+    "ShowUsages": 1670907996169,
+    "ContextActions": 1670908005464
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="all-nighter-game-jam-history" project-path="$USER_HOME$/programing/java/all-nighter-game-jam" last-access-time="1670907114429" />
+      <command-history-file filename="all-hells-loose-history" project-path="$USER_HOME$/programming/java/all-hells-loose" last-access-time="1670908325785" />
+    </command-history-files>
+  </component>
+</application>

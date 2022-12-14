@@ -1,0 +1,7 @@
+Threshold = 95
+DisplayMonitorSources = false
+EnableUpdates = true
+FilterInput = true
+FilterOutput = false
+LastUsedInput = "alsa_input.usb-Generic_Blue_Microphones_2116BAH03SH8-00.analog-stereo"
+LastUsedOutput = ""

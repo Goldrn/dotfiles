@@ -1,0 +1,154 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1670910914814" />
+    </e>
+    <e n="$Redo">
+      <i c="2" l="1670954808923" />
+    </e>
+    <e n="$Undo">
+      <i c="354" l="1670960195180" />
+    </e>
+    <e n="CloseProject">
+      <i c="3" l="1670985049278" />
+    </e>
+    <e n="CompileDirty">
+      <i c="2" l="1670908154625" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1670910143536" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1424" l="1670970730117" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1670915952860" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="168" l="1670970720922" />
+    </e>
+    <e n="EditorCopy">
+      <i c="7" l="1670963547967" />
+    </e>
+    <e n="EditorCut">
+      <i c="11" l="1670960135601" />
+    </e>
+    <e n="EditorDelete">
+      <i c="4" l="1670914459531" />
+    </e>
+    <e n="EditorDeleteLine">
+      <i c="1" l="1670953773189" />
+    </e>
+    <e n="EditorDown">
+      <i c="172" l="1670970715761" />
+    </e>
+    <e n="EditorEnter">
+      <i c="134" l="1670963742081" />
+    </e>
+    <e n="EditorEscape">
+      <i c="2" l="1670960833504" />
+    </e>
+    <e n="EditorLeft">
+      <i c="409" l="1670970711863" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="3" l="1670916622260" />
+    </e>
+    <e n="EditorPaste">
+      <i c="15" l="1670963552873" />
+    </e>
+    <e n="EditorRight">
+      <i c="690" l="1670970717616" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1670963115396" />
+    </e>
+    <e n="EditorTab">
+      <i c="3" l="1670953394176" />
+    </e>
+    <e n="EditorToggleInsertState">
+      <i c="12" l="1670956627813" />
+    </e>
+    <e n="EditorUp">
+      <i c="138" l="1670970709337" />
+    </e>
+    <e n="Git.Init">
+      <i c="1" l="1670985079738" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="4" l="1670985526541" />
+    </e>
+    <e n="JumpToLastWindow">
+      <i c="1" l="1670908877590" />
+    </e>
+    <e n="NewClass">
+      <i c="4" l="1670960327931" />
+    </e>
+    <e n="NewProject">
+      <i c="2" l="1670907388641" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1670907971337" />
+    </e>
+    <e n="Run">
+      <i c="81" l="1670985528603" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1670917446535" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="4" l="1670984972899" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="2" l="1670915999308" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1670907805154" />
+    </e>
+    <e n="Stop">
+      <i c="4" l="1670984963764" />
+    </e>
+    <e n="ToggleBookmark">
+      <i c="1" l="1670956715642" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1670964393728" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="2" l="1670908387682" />
+    </e>
+    <e n="WelcomeScreen.OpenSelected">
+      <i c="1" l="1670985043276" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$1">
+      <i c="5" l="1670963160339" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$RunCurrentFileAction">
+      <i c="1" l="1670908148777" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$DeleteBackspaceHandler">
+      <i c="22" l="1670968373064" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$EnterHandler">
+      <i c="127" l="1670970753722" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
+      <i c="2" l="1670907808448" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="3" l="1670914528599" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="5" l="1670910912690" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="3" l="1670985136587" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="1" l="1670907431102" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1670964395659" />
+    </e>
+  </component>
+</application>
