@@ -1,0 +1,5 @@
+2022/11/21-10:06:23.609 917 Creating DB /home/goldrn/.config/discord/Local Storage/leveldb since it was missing.
+2022/11/21-10:06:23.612 917 Reusing MANIFEST /home/goldrn/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/11/21-10:08:28.622 913 Level-0 table #5: started
+2022/11/21-10:08:28.633 913 Level-0 table #5: 1208978 bytes OK
+2022/11/21-10:08:28.634 913 Delete type=0 #3
